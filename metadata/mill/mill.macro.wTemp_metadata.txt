@@ -1,4 +1,4 @@
-This “mill.macro.waterQ_metadata” file was most recently updated on 2021-03-29 by Marney Pratt
+This “mill.macro.wTemp_metadata” file was most recently updated on 2021-03-29 by Marney Pratt
 
 
 -------------------
@@ -8,7 +8,7 @@ GENERAL INFORMATION
 
 1. Title of Dataset 
 
-Mill River Macroinvertebrate and Water Quality Data for 2019
+Mill River Macroinvertebrate and Daily Water Temperature Data for 2018-2019
 
 
 2. Author Information
@@ -24,7 +24,7 @@ Mill River Macroinvertebrate and Water Quality Data for 2019
 
 3. Date of data collection (single date, range, approximate date) <dates in format YYYY-MM>
 
-2019-05 to 2019-10
+2018-05 to 2019-10
 
 
 4. Geographic location of data collection (where was data collected?): 
@@ -38,9 +38,11 @@ GPS coordinates given below
 
 Smith College Facilities Management funded summary salary for Marney Pratt and 
 Summer Undergradate Research Fellowships awarded to 
-AndrewTurgeon and Samikshya Dhami in 2019
+Sasha Clapp and Lyric Williams in 2018
+Andrew Turgeon and Samikshya Dhami in 2019
 
 The Horner Fund funded a Summer Undergradate Research Fellowship for 
+Renee Halloran in 2018
 Sasha Clapp in 2019
 
 The Smith College Department of Biological Sciences funded some of the materials and supplies in 
@@ -57,11 +59,11 @@ No restrictions other than proper citation/attribution
 
 2. Recommended citation for this metadata text file:
 
-Pratt, MC.  2021.  Mill River macroinvertebrate data metadata for 2018-2019.  Smith College, Northampton, MA.
+Pratt, MC.  2021.  Mill River macroinvertebrate and daily water temperature metadata for 2018-2019.  Smith College, Northampton, MA.
 
 3. Recommended citation for the data:
 
-Pratt, MC.  2021.  Mill River macroinvertebrate data for 2018-2019.  Smith College, Northampton, MA.
+Pratt, MC.  2021.  Mill River macroinvertebrate and daily water temperature data for 2018-2019.  Smith College, Northampton, MA.
 
 
 
@@ -71,12 +73,13 @@ DATA & FILE OVERVIEW
 
 
 1. File List
-   A. Filename: mill.macro.waterQ.csv       
+   A. Filename: mill.macro.wTemp.csv       
       Short description:        
 
 Each row shows the data from one type of organism found from a site on the same day.  The data contains all the organisms found for the 
 2018-2019 sampling for the upstream and downstream riffles in the Mill River.  The worms and midges were identified down to the lowest level 
 possible with the keys available in the summer only. 
+The daily water temperature values (max, min, mean) from the Lamont Bridge Monitoring Station are also included for each day macroinvertebrates were sampled.
 
 
 --------------------------
@@ -103,8 +106,6 @@ This process was repeated 8-11 times per site, and all samples from a site were 
 
 In each location (upstream and downstream of Paradise Pond) we sampled 5 microhabitats.  We usually sampled 2 quadrats in each microhabitat for a total of 10 quadrats sampled in a location on a particular day.  
 
-Water quality measures were not taken during all sampling days because of time or weather constraints. More information on methods is given below for each variable.
-
  
 After collecting in the field, samples were taken back to the lab and sorted into categories (mostly at the order or family level) and then preserved in 
 70% ethyl alcohol.  Later, each organism was identified to the lowest level possible (down to genus for most things, species for some, and higher taxonomic 
@@ -127,7 +128,7 @@ Smith College Bio 131 students
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: mill.macro.waterQ.csv
+DATA-SPECIFIC INFORMATION FOR: mill.macro.wTemp.csv
 -----------------------------------------
 
 
@@ -231,78 +232,14 @@ FFG: Primary functional feeding group of that organism
 	scr - scraper	 dominant food: scrapes periphyton of surfaces (periphyton = algae and associated material attached to rocks and other substrata)
 	sh - shredders 	dominant food: herbivore variety chew and mines live plant material, detritivore variety chews, bores, or gouges decomposing vascular plant 	tissue including wood (course particulate organic matter = CPOM)
 
+wTemp.max: the daily maximum temperature in Celcius as measured at the Lamont Bridge monitoring station
+	http://pond.smith.edu/index.html
 
-num_wQ: number of water quality samples taken
+wTemp.min: the daily minimum temperature in Celcius as measured at the Lamont Bridge monitoring station
+	http://pond.smith.edu/index.html
 
-lat: Latitude coordinate as measured by Vernier's LabQuest 2 (uses WGS84, accruacy: half of data points fall within a radius of 2m)
-	https://www.vernier.com/products/interfaces/labq2/
-
-long: Longitude coordinate as measured by Vernier's LabQuest 2 (uses WGS84, accruacy: half of data points fall within a radius of 2m)
-	https://www.vernier.com/products/interfaces/labq2/
-
-alt: Altitude in meters as measured by Vernier's LabQuest 2 (uses WGS84, accruacy: half of data points fall within a radius of 2m)
-	https://www.vernier.com/products/interfaces/labq2/
-
-pH: the pH 
-	pH was measured using an Oakton pH Testr 50 Waterproof Pocket pH Tester (accuracy: ±0.01 pH)
-	which was calibrated ahead of time using buffers made using the Vernier pH capsule set
-	Effort was made to wait until the meter stabilized on a reading before the pH was recorded
-
-wTemp: Water temperature was measured in Celcius by different tools depending on year
-
-	2018-2019 we used the Vernier Stainless Steel Temperature Probe (accuracy: ±0.2°C at 0°C, ±0.5°C at 100°C) . 
-	https://www.vernier.com/manuals/tmp-bta/
-	
-	Starting in 2020, we used the Oakton pH Testr 50 Waterproof Pocket pH Tester (accuracy: ±0.2°C) to minimize the number of different tools to bring in the field
-
-
-	In all cases, the reading taken just below the surface (with the whole metal part of the sensor in the water) and 
-	was a 10 second average once the reading seemed to stabilize. 
-
-
-DO: Dissolved oxygen was measured in milligrams of oxygen per liter by the Vernier Optical Dissolved Oxygen Probe (accurate to ± 0.1 mg/L). 
-	https://www.vernier.com/manuals/odo-bta/
-	The reading taken just below the surface (with the probe all the way in the water at least up to the temperature sensor) and was a 10 second average. 
-	The probe was calibrated using a zero oxygen solution of sodium sulfite and a 100% saturation value determined by placing the probe in the storage cap 
-	with distilled water saturating the sponge (so the air was 100% saturated with water)
-	Effort was made to make sure that the probe had settled on a reading before it was recorded 
-	(it can take a little while for the first reading or two to settle as the temperature adjusts)
-
-turb: Turbidity was measured in Nephelometric Turbidity Units (NTU) by the Vernier Turbidity Sensor (accurate to ±2 NTU for readings under 25 NTU). 	https://www.vernier.com/files/manuals/trb-bta.pdf
-	Samples of water from each location were taken with a clean turbidity bottle (https://www.vernier.com/products/accessories/trb-bot/)
-	Calibration was done using Millipore filtered RO water and the 100 NTU calibration bottle that came with the sensor.  
-	All bottles were tipped upside down three times before a measurement was taken or calibration was performed
-	Bottles were wiped clean by a Kim Wipe before the bottle was placed in the sensor.
-
-light: The photosyntehtically active radiation was measured in photosynthetic photon flux density (PPFD) 
-	which corresponds to the micromoles of photons per meter squared per second
-	https://www.vernier.com/files/manuals/par-bta.pdf
-	The sensor was mounted on a PVC pipe with one section that was bent to be parallel to the bottom of the river.  
-	The sensor faced upstream (with the cord facing downstream)
-	and care was taken to not let our shaddows interfere with the sensor.
-	The reading taken was a 10 second average. 
-	PAR range 0 to 2000 umol m-2 s-1 (in full sun)
-	Absolute accuracy ±5% (full scale)
-	Repeatability ±1%
-	Long-term drift Less than 2% per year
-	Cosine response
-		 45º ±2%
- 		75º ±5%
-	Spectral range 410–655 nm
-	Resolution 1 umol m-2 s-1
-	Operating environment –40 to 70˚ C
-		0–100% relative humidity
-	Sensor head and cable can be submerged in water to electronics box.
-	Stored calibration values
-		slope 500 umol m-2 s-1/ V
-		intercept 0 
-
-
-flow: the flow rate of the water in meters per second
-	flow rate was measured in meters per second by the Vernier Flow Rate Sensor (without any spacer on the bottom) (accurate to 0.04 m/s, resolution of 0.0012 m/s). 	https://www.vernier.com/files/manuals/flo-bta.pdf
-	Does not measure really low flows well, there were times when the water could be seen to be moving very slowly but the propeller did not spin at all.
-	Flow measurement was taken by facing the propeller upstream and taking a 10 second average 
-	The flow rate sensor was zeroed before measurements began.
+wTemp.mean: the daily mean temperature in Celcius as measured at the Lamont Bridge monitoring station
+	http://pond.smith.edu/index.html   
       
 
 2. Missing data codes:
