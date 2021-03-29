@@ -26,9 +26,9 @@ library(ggbeeswarm) ## for jittering points
 ```
 
 
-# Import Prepared Data
+# Import Data
 
-Figure out which data file(s) you need to import.  Find the code you need in the "importing_data" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. You can make a separate chunk for each data file you want to import.
+Figure out which data file(s) you need to import.  Find the code you need in the "importing_data" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
 
 
 ```{r import data, include=FALSE}
