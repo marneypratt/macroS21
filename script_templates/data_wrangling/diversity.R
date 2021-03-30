@@ -4,7 +4,7 @@
 # data must also be imported before you can run the code below
 
 # remove missing values, and make sure each taxa is summarized within sampleID
-macro.long <- mill.macro %>%  # replace the blank with the name of the appropriate data frame
+macro.long <- ____ %>%  # replace the blank with the name of the appropriate data frame
   dplyr::filter(!is.na(number)) %>% 
   dplyr::select(sampleID, acceptedTaxonID, number) %>% 
   group_by(sampleID, acceptedTaxonID) %>% 
