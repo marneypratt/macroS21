@@ -1,4 +1,5 @@
 
+# make sure the `readr` package is installed and loaded before you run the code below
 # this code will import the macroinvertebrate data for the Mill River only
 # this file includes all the Mill River data from 2018-2019
 # see the file called mill.macro_metadata.txt for details about all these variables and methods

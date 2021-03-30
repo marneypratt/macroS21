@@ -1,4 +1,5 @@
 
+# make sure the `readr` package is installed and loaded before you run the code below
 # this code will import the macroinvertebrate data for the Mill River only
 # this file includes the Mill River data from  the Summer and Fall of 2019
 # and includes the macroinvertebrates sampled plus whatever 
