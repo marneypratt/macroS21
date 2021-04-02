@@ -4,16 +4,16 @@
 # data must also be imported before you can run the code below
 
 # remove missing values, and make sure each taxa is summarized within sampleID
-macro.long <- ____ %>%  # replace the blank with the name of the appropriate data frame
+macro.long <- ___ %>%  # replace the blank with the name of the appropriate data frame
   dplyr::filter(!is.na(number)) %>% 
-  dplyr::select(sampleID, acceptedTaxonID, number) %>% 
-  group_by(sampleID, acceptedTaxonID) %>% 
+  dplyr::select(sampleID, organism_aggr, number) %>% 
+  group_by(sampleID, organism_aggr) %>% 
   dplyr::summarise(num = sum(number))
 
 
 # convert to wide format
 macro.wide <- macro.long %>% 
-  pivot_wider(names_from = acceptedTaxonID, 
+  pivot_wider(names_from = organism_aggr, 
               values_from = num,
               values_fill = list(num = 0),
               values_fn = list(num = mean)) %>%
