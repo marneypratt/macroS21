@@ -5,8 +5,8 @@ GLOCOM,species,Glossiphonia complanata,Annelida,Clitellata,Hirudinea,Rhynchobdel
 PLASP16,genus,Placobdella sp.,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,Glossiphoniinae,NA,Placobdella,NA,leeches,8,prd,NA
 ACTSP5,genus,Actinobdella sp.,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,Haementeriinae,NA,Actinobdella,NA,leeches,8,prd,NA
 GLOELO,species,Gloiobdella elongata,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,Haementeriinae,NA,Gloiobdella,elongata,leeches,8,prd,NA
-HELSP19,genus,Helobdella sp.,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,Haementeriinae,NA,Helobdella,NA,leeches,8,prd,NA
 HELSTA,species,Helobdella stagnalis,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,Haementeriinae,NA,Helobdella,NA,leeches,6,prd,NA
+HELSP19,genus,Helobdella sp.,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,Haementeriinae,NA,Helobdella,NA,leeches,8,prd,NA
 GLOSP,family,Glossiphoniidae sp.,Annelida,Clitellata,Hirudinea,Rhynchobdellida,Glossiphoniidae,NA,NA,NA,NA,leeches,8,prd,NA
 AEOSP2,genus,Aeolosoma sp.,Annelida,Clitellata,Oligochaeta,Aeolosomatida,Aeolosomatidae,NA,NA,Aeolosoma,NA,segmented_worms,8,cf,NA
 ENCSP1,family,Enchytraeidae sp.,Annelida,Clitellata,Oligochaeta,Enchytraeida,Enchytraeidae,NA,NA,NA,NA,segmented_worms,10,cg,NA
@@ -15,8 +15,8 @@ LUMSP2,family,Lumbriculidae sp.,Annelida,Clitellata,Oligochaeta,Lumbriculida,Lum
 RHYSP7,genus,Rhynchelmis sp.,Annelida,Clitellata,Oligochaeta,Lumbriculida,Lumbriculidae,NA,NA,Rhynchelmis,NA,segmented_worms,5,cg,NA
 STYHER,species,Stylodrilus heringianus,Annelida,Clitellata,Oligochaeta,Lumbriculida,Lumbriculidae,NA,NA,Stylodrilus,heringianus,segmented_worms,5,cg,NA
 OLISP,subclass,Oligochaeta sp.,Annelida,Clitellata,Oligochaeta,NA,NA,NA,NA,NA,NA,segmented_worms,7,cg,NA
-TUBSP,order,Tubificida sp.,Annelida,Clitellata,Oligochaeta,Tubificida,NA,NA,NA,NA,NA,segmented_worms,10,cg,NA
 LUMSP1,suborder,Lumbricina sp.,Annelida,Clitellata,Oligochaeta,Tubificida,NA,NA,NA,NA,NA,segmented_worms,6,cg,NA
+TUBSP,order,Tubificida sp.,Annelida,Clitellata,Oligochaeta,Tubificida,NA,NA,NA,NA,NA,segmented_worms,10,cg,NA
 NAISP,family,Naididae sp.,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,NA,NA,NA,NA,segmented_worms,8,cg,NA
 NAISP,family,Naididae sp.,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,NA,NA,NA,NA,segmented_worms,10,cg,NA
 AMPLEY,species,Amphichaeta leydigi,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Amphichaeta,leydigi,segmented_worms,6,cg,NA
@@ -26,9 +26,9 @@ CHADIA1,species,Chaetogaster diastrophus,Annelida,Clitellata,Oligochaeta,Tubific
 DERSP4,genus,Dero sp.,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Dero,NA,segmented_worms,10,cg,NA
 DERDIG,species,Dero digitata,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Dero,NA,segmented_worms,10,cg,NA
 DERFUR,species,Dero furcata,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Dero,NA,segmented_worms,10,cg,NA
-NAIALP,species,Nais alpina,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Nais,NA,segmented_worms,8,cg,NA
 NAIBEH,species,Nais behningi,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Nais,NA,segmented_worms,6,cg,NA
 NAIBRE,species,Nais bretscheri,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Nais,NA,segmented_worms,6,cg,NA
+NAIALP,species,Nais alpina,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Nais,NA,segmented_worms,8,cg,NA
 NAICOM,speciesGroup,Nais communis/variabilis,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Nais,NA,segmented_worms,9,cg,NA
 PIGSP,genus,Piguetiella sp.,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Piguetiella,NA,segmented_worms,6,cg,NA
 SLAAPP,species,Slavina appendiculata,Annelida,Clitellata,Oligochaeta,Tubificida,Naididae,Naidinae,NA,Slavina,NA,segmented_worms,6,cg,NA
@@ -132,6 +132,7 @@ LEBSP1,genus,Lebertia sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Lebert
 LIMSP32,genus,Limnesia sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Limnesiidae,NA,NA,Limnesia,NA,Limnesia,5,prd,NA
 TYRSP,genus,Tyrrellia sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Limnesiidae,NA,NA,Tyrrellia,NA,Tyrrellia,5,prd,NA
 LIMSP33,genus,Limnochares sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Limnocharidae,NA,NA,Limnochares,NA,Limnochares,5,prd,NA
+RHYSP6,genus,Rhyncholimnochares sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Limnocharidae,NA,NA,Rhyncholimnochares,NA,Rhyncholimnochares,5,prd,NA
 MIDSP2,genus,Mideopsis sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Mideopsidae,NA,NA,Mideopsis,NA,Mideopsis,5,prd,NA
 STYSP10,genus,Stygomomonia sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Momoniidae,NA,NA,Stygomomonia,NA,Stygomomonia,5,prd,NA
 OXUSP,genus,Oxus sp.,Arthropoda,Chelicerata,Arachnida,Trombidiformes,Oxidae,NA,NA,Oxus,NA,Oxus,5,prd,NA
@@ -165,12 +166,12 @@ CAMSP1,family,Cambaridae sp.,Arthropoda,Crustacea,Malacostraca,Decapoda,Cambarid
 ORCRUS,species,Orconectes rusticus,Arthropoda,Crustacea,Malacostraca,Decapoda,Cambaridae,NA,NA,Orconectes,rusticus,crayfish,6,cg,om
 ORCVIR,species,Orconectes virilis,Arthropoda,Crustacea,Malacostraca,Decapoda,Cambaridae,NA,NA,Orconectes,virilis,crayfish,6,sh,om
 MACSP26,genus,Macrobrachium sp.,Arthropoda,Crustacea,Malacostraca,Decapoda,Palaemonidae,Palaemoninae,NA,Macrobrachium,NA,crayfish,4,cg,NA
-EPISIN,species,Epilobocera sinuatifrons,Arthropoda,Crustacea,Malacostraca,Decapoda,Pseudothelphusidae,NA,NA,Epilobocera,NA,crayfish,NA,cg,om
+EPISIN,species,Epilobocera sinuatifrons,Arthropoda,Crustacea,Malacostraca,Decapoda,Pseudothelphusidae,NA,NA,Epilobocera,NA,Epilobocera,NA,cg,om
 CAESP4,genus,Caecidotea sp.,Arthropoda,Crustacea,Malacostraca,Isopoda,Asellidae,NA,NA,Caecidotea,NA,Caecidotea,8,cg,sh
 LIRSP,genus,Lirceus sp.,Arthropoda,Crustacea,Malacostraca,Isopoda,Asellidae,NA,NA,Lirceus,NA,Lirceus,8,cg,NA
 ASESP2,family,Asellidae sp.,Arthropoda,Crustacea,Malacostraca,Isopoda,Asellidae,NA,NA,NA,NA,Asellidae,8,cg,NA
 ISOSP,order,Isopoda sp.,Arthropoda,Crustacea,Malacostraca,Isopoda,NA,NA,NA,NA,NA,Isopoda,8,cg,NA
-NAISP1,genus,Nais sp.,Arthropoda,Crustacea,Malacostraca,Tanaidacea,Pseudotanaidae,NA,NA,Nais,NA,Nais,NA,NA,NA
+NAISP1,genus,Nais sp.,Arthropoda,Crustacea,Malacostraca,Tanaidacea,Pseudotanaidae,NA,NA,Nais,NA,Nais,8,cg,NA
 OSTSP,class,Ostracoda sp.,Arthropoda,Crustacea,Ostracoda,NA,NA,NA,NA,NA,NA,Ostracoda,6,cg,NA
 COLSP1,order,Collembola sp.,Arthropoda,Hexapoda,Collembola,Collembola,NA,NA,NA,NA,NA,Collembola,5,cg,NA
 CARSP3,family,Carabidae sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Carabidae,NA,NA,unknown_carabid,NA,Carabidae,4,prd,NA
@@ -196,7 +197,7 @@ DYTSP,family,Dytiscidae sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Dytiscidae,NA
 DYTSP,family,Dytiscidae sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Dytiscidae,NA,NA,unknown_dytiscid,NA,Dytiscidae,5,prd,NA
 ANCVAR1,species,Ancyronyx variegata,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Ancyronychini,Ancyronyx,NA,Ancyronyx,5,cg,scr
 AMPDIS,species,Ampumixis dispar,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Ampumixis,NA,Ampumixis,4,cg,NA
-BRYSP4,genus,Bryelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Bryelmis,NA,Bryelmis,NA,NA,NA
+BRYSP4,genus,Bryelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Bryelmis,NA,Bryelmis,5,scr,NA
 CLEADD,species,Cleptelmis addenda,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Cleptelmis,NA,Cleptelmis,4,cg,NA
 DUBSP,genus,Dubiraphia sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Dubiraphia,NA,Dubiraphia,6,cg,NA
 HETCOR,species,Heterlimnius corpulentus,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Heterlimnius,NA,Heterlimnius,4,cg,NA
@@ -210,29 +211,25 @@ NEOCAE,species,Neoelmis caesa,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elm
 OPTSP,genus,Optioservus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Optioservus,NA,Optioservus,4,scr,cg
 OPTOVA,species,Optioservus ovalis,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Optioservus,NA,Optioservus,4,scr,NA
 OPTSP,species,Optioservus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Optioservus,trivittatus,Optioservus,4,scr,cg
-OPTSP,species,Optioservus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Optioservus,trivittatus,Optioservus,4,scr,cg
-OULSP,species,Oulimnius sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Oulimnius,latiusculus,Oulimnius,4,scr,NA
+OULLAT,species,Oulimnius latiusculus,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Oulimnius,latiusculus,Oulimnius,4,scr,NA
 OULSP,genus,Oulimnius sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Oulimnius,NA,Oulimnius,4,scr,NA
+OULSP,species,Oulimnius sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Oulimnius,latiusculus,Oulimnius,4,scr,NA
 PROSP19,genus,Promoresia sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Promoresia,NA,Promoresia,2,scr,NA
 PROTAR,species,Promoresia tardella,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Promoresia,NA,Promoresia,2,scr,NA
-STESP6,species,Stenelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Stenelmis,decorata,Stenelmis,5,scr,cg
 STESP6,species,Stenelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Stenelmis,decorata,Stenelmis,5,scr,cg
 STESP6,genus,Stenelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Elmini,Stenelmis,NA,Stenelmis,5,scr,cg
 MACGLA,species,Macronychus glabratus,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Macronychini,Macronychus,glabratus,Macronychus,5,cg,NA
 ZAISP,genus,Zaitzevia sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Macronychini,Zaitzevia,NA,Zaitzevia,4,scr,NA
 ZAIPAR,species,Zaitzevia parvula,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Macronychini,Zaitzevia,NA,Zaitzevia,4,scr,NA
 ZAIPOS,species,Zaitzevia posthonia,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Elminae,Macronychini,Zaitzevia,NA,Zaitzevia,4,scr,NA
-PHASP11,genus,Phanocerus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Larainae,NA,Phanocerus,NA,Phanocerus,NA,cg,scr
+PHASP11,genus,Phanocerus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,Larainae,NA,Phanocerus,NA,Phanocerus,5,cg,scr
 ANCVAR1,species,Ancyronyx variegata,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Ancyronyx,NA,Ancyronyx,5,cg,scr
 MACGLA,species,Macronychus glabratus,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Macronychus,glabratus,Macronychus,5,cg,NA
 MICSP2,genus,Microcylloepus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Microcylloepus,NA,Microcylloepus,3,scr,NA
 ELMSP,family,Elmidae sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,NA,NA,Elmidae,5,scr,cg
 OPTSP,genus,Optioservus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Optioservus,NA,Optioservus,4,scr,cg
 OPTSP,species,Optioservus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Optioservus,trivittatus,Optioservus,4,scr,cg
-OPTSP,species,Optioservus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Optioservus,trivittatus,Optioservus,4,scr,cg
-OULSP,species,Oulimnius sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Oulimnius,latiusculus,Oulimnius,4,scr,NA
 OULSP,genus,Oulimnius sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Oulimnius,NA,Oulimnius,4,scr,NA
-STESP6,species,Stenelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Stenelmis,decorata,Stenelmis,5,scr,cg
 STESP6,species,Stenelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Stenelmis,decorata,Stenelmis,5,scr,cg
 STESP6,genus,Stenelmis sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Elmidae,NA,NA,Stenelmis,NA,Stenelmis,5,scr,cg
 DINSP,genus,Dineutus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Gyrinidae,Gyrininae,Enhydrini,Dineutus,NA,Dineutus,4,prd,NA
@@ -245,6 +242,7 @@ BERSP4,genus,Berosus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,Hy
 CHASP14,genus,Chaetarthria sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilinae,Chaetarthriini,Chaetarthria,NA,Chaetarthria,5,cg,prd
 CYMSP2,genus,Cymbiodyta sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilinae,Hydrophilini,Cymbiodyta,NA,Cymbiodyta,5,cg,prd
 TROSP4,genus,Tropisternus sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilinae,Hydrophilini,Tropisternus,NA,Tropisternus,5,cg,prd
+LACSP2,genus,Laccobius sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilinae,Laccobiini,Laccobius,NA,Laccobius,5,prd,NA
 AMESP4,genus,Ametor sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilinae,Sperchopsini,Ametor,NA,Ametor,5,cg,prd
 HYDSP3,family,Hydrophilidae sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,NA,NA,NA,NA,Hydrophilidae,5,prd,cg
 HYDSP3,family,Hydrophilidae sp.,Arthropoda,Hexapoda,Insecta,Coleoptera,Hydrophilidae,NA,NA,unknown_hydrophilid,NA,Hydrophilidae,5,prd,cg
@@ -265,6 +263,15 @@ PALSP13,genus,Paltostoma sp.,Arthropoda,Hexapoda,Insecta,Diptera,Blephariceridae
 STISP4,genus,Stilobezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Ceratopogonini,Stilobezzia,NA,Stilobezzia,6,prd,NA
 CERSP10,subfamily,Ceratopogoninae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,NA,NA,NA,Ceratopogoninae,6,prd,NA
 BEZSP1,speciesGroup,Bezzia/Palpomyia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Palpomyiini,Bezzia/Palpomyia,NA,Bezzia,6,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,7,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,8,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,9,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,10,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,11,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,12,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,13,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,14,prd,NA
+PROSP27,genus,Probezzia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Ceratopogoninae,Sphaeromiini,Probezzia,NA,Probezzia,15,prd,NA
 DASSP2,genus,Dasyhelea sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Dasyheleinae,NA,Dasyhelea,NA,Dasyhelea,6,cg,scr
 ATRSP1,genus,Atrichopogon sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Forcipomyiinae,NA,Atrichopogon,NA,Atrichopogon,6,prd,NA
 FORSP5,genus,Forcipomyia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ceratopogonidae,Forcipomyiinae,NA,Forcipomyia,NA,Forcipomyia,6,scr,NA
@@ -279,7 +286,7 @@ CHISP8,genus,Chironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chi
 CLASP5,genus,Cladopelma sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Cladopelma,NA,midges,9,cg,NA
 CRYSP2,genus,Cryptochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Cryptochironomus,NA,midges,8,prd,NA
 CRYSP3,genus,Cryptotendipes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Cryptotendipes,NA,midges,6,cg,NA
-CYPSP5,genus,Cyphomella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Cyphomella,NA,midges,NA,cg,NA
+CYPSP5,genus,Cyphomella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Cyphomella,NA,midges,8,cg,NA
 DEMSP1,genus,Demicryptochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Demicryptochironomus,NA,midges,8,cg,NA
 DICSP7,genus,Dicrotendipes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Dicrotendipes,NA,midges,8,cg,NA
 DICFUM,species,Dicrotendipes fumidus,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Dicrotendipes,NA,midges,8,cg,NA
@@ -291,9 +298,9 @@ GLYSP3,genus,Glyptotendipes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae
 GOESP2,genus,Goeldichironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Goeldichironomus,NA,midges,8,cg,NA
 KLOSP,genus,Kloosia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Kloosia,NA,midges,6,cg,NA
 LAUAGR,species,Lauterborniella agrayloides,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Lauterborniella,NA,midges,8,cg,NA
+MICRYD,speciesGroup,Microtendipes rydalensis gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Microtendipes,NA,midges,4,cf,NA
 MICSP5,genus,Microtendipes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Microtendipes,NA,midges,5,cf,cg
 MICPED,speciesGroup,Microtendipes pedellus gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Microtendipes,NA,midges,6,cf,NA
-MICRYD,speciesGroup,Microtendipes rydalensis gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Microtendipes,NA,midges,4,cf,NA
 CHISP6,tribe,Chironomini sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,NA,NA,midges,6,cg,NA
 NILSP1,genus,Nilothauma sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Nilothauma,NA,midges,6,cg,NA
 PAGSP5,genus,Pagastiella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Pagastiella,NA,midges,7,cg,NA
@@ -304,18 +311,18 @@ PARSP32,genus,Paralauterborniella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chiron
 PARNIG,species,Paralauterborniella nigrohalteralis,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Paralauterborniella,NA,midges,8,cg,NA
 PARSP33,genus,Paratendipes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Paratendipes,NA,midges,6,cg,NA
 PHASP9,genus,Phaenopsectra sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Phaenopsectra,NA,midges,7,scr,cg
-POLSP13,genus,Polypedilum sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,om
 POLAVI,species,Polypedilum aviceps,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,4,sh,NA
+POLSP13,genus,Polypedilum sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,om
 POLBEC,species,Polypedilum beckae,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
 POLCON1,species,Polypedilum convictum,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
 POLEPL,species,Polypedilum epleri,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
 POLFLA1,species,Polypedilum flavum,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
 POLLAE,species,Polypedilum laetum,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
-POLTRI2,species,Polypedilum tritum,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,7,sh,NA
 POLFAL,speciesGroup,Polypedilum fallax gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
 POLHAL,speciesGroup,Polypedilum halterale gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
-POLILL,speciesGroup,Polypedilum illinoense gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,7,sh,NA
 POLSCA,speciesGroup,Polypedilum scalaenum gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,6,sh,NA
+POLTRI2,species,Polypedilum tritum,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,7,sh,NA
+POLILL,speciesGroup,Polypedilum illinoense gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Polypedilum,NA,midges,7,sh,NA
 ROBSP,genus,Robackia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Robackia,NA,midges,6,cg,NA
 ROBDEM,species,Robackia demeijerei,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Robackia,NA,midges,6,cg,NA
 SAESP,genus,Saetheria sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Saetheria,NA,midges,4,cg,NA
@@ -327,7 +334,7 @@ STISP2,genus,Stictochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomid
 TRISP18,genus,Tribelos sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Tribelos,NA,midges,7,cg,NA
 TRIJUC,species,Tribelos jucundum,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Tribelos,NA,midges,7,cg,NA
 XENSP,genus,Xenochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Xenochironomus,NA,midges,4,prd,NA
-XESSP,genus,Xestochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Xestochironomus,NA,midges,NA,NA,NA
+XESSP,genus,Xestochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Chironomini,Xestochironomus,NA,midges,7,cg,NA
 PSESP18,genus,Pseudochironomus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Pseudochironomini,Pseudochironomus,NA,midges,5,cg,NA
 CLASP6,genus,Cladotanytarsus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Cladotanytarsus,NA,midges,5,cf,NA
 CONSP6,genus,Constempellina sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Constempellina,NA,midges,4,cg,NA
@@ -337,10 +344,10 @@ TANSP8,tribe,Tanytarsini sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Ch
 TANSPP8,tribe,Tanytarsini spp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,NA,NA,midges,6,cf,NA
 NEOSP40,genus,Neostempellina sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Neostempellina,NA,midges,2,cg,NA
 PARSP34,genus,Paratanytarsus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Paratanytarsus,NA,midges,6,cf,NA
-RHESP2,genus,Rheotanytarsus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Rheotanytarsus,NA,midges,6,cf,NA
 RHEPEL1,species,Rheotanytarsus pellucidus,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Rheotanytarsus,NA,midges,4,cf,NA
-RHEEXI,speciesGroup,Rheotanytarsus exiguus gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Rheotanytarsus,NA,midges,6,cf,NA
 RHEPEL,speciesGroup,Rheotanytarsus pellucidus gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Rheotanytarsus,NA,midges,4,cf,NA
+RHESP2,genus,Rheotanytarsus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Rheotanytarsus,NA,midges,6,cf,NA
+RHEEXI,speciesGroup,Rheotanytarsus exiguus gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Rheotanytarsus,NA,midges,6,cf,NA
 STESP9,genus,Stempellina sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Stempellina,NA,midges,2,cg,NA
 STESP10,genus,Stempellinella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Stempellinella,NA,midges,4,cg,NA
 SUBSP,genus,Sublettea sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Chironominae,Tanytarsini,Sublettea,NA,midges,4,cf,NA
@@ -358,7 +365,7 @@ PSESP29,genus,Pseudokiefferiella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chirono
 SYMSP2,genus,Sympotthastia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Diamesinae,Diamesini,Sympotthastia,NA,midges,2,cg,NA
 DIASP6,subfamily,Diamesinae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Diamesinae,NA,NA,NA,midges,2,cg,NA
 PROSP34,genus,Protanypus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Diamesinae,Protanypini,Protanypus,NA,midges,2,cg,NA
-ALLSP14,genus,Allocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,NA,NA,Allocladius,NA,midges,NA,cg,NA
+ALLSP14,genus,Allocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,NA,NA,Allocladius,NA,midges,6,cg,NA
 CHISP2,family,Chironomidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,NA,NA,midges,NA,midges,6,cg,om
 CHISP2,family,Chironomidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,NA,NA,NA,NA,midges,6,cg,om
 NEOREI,species,Neostempellina reissi,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,NA,NA,Neostempellina,NA,midges,2,cg,NA
@@ -367,6 +374,7 @@ ENDSP2,genus,Endotribelos sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,O
 ANTSP12,genus,Antillocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Antillocladius,NA,midges,6,cg,NA
 BRISP,genus,Brillia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Brillia,NA,midges,6,cg,NA
 CARSP9,genus,Cardiocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Cardiocladius,NA,midges,5,prd,NA
+CARALB,species,Cardiocladius albiplumus,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Cardiocladius,albiplumus,midges,5,prd,NA
 CHASP12,genus,Chaetocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Chaetocladius,NA,midges,6,cg,NA
 CORSP19,genus,Corynoneura sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Corynoneura,NA,midges,4,cg,NA
 CRISP2,genus,Cricotopus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Cricotopus,NA,midges,7,sh,NA
@@ -378,37 +386,37 @@ CRISP6,speciesGroup,Cricotopus/Orthocladius sp.,Arthropoda,Hexapoda,Insecta,Dipt
 DIPSP9,genus,Diplocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Diplocladius,NA,midges,8,cg,NA
 DIPCUL,species,Diplocladius cultriger,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Diplocladius,NA,midges,8,cg,NA
 EPOSP,genus,Epoicocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Epoicocladius,NA,midges,4,cg,NA
-EUKSP,genus,Eukiefferiella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,5,cg,om
 EUKDIS,species,Eukiefferiella discoloripes,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
 EUKTIR,species,Eukiefferiella tirolensis,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
 EUKBRE,speciesGroup,Eukiefferiella brehmi gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
 EUKBRE1,speciesGroup,Eukiefferiella brevicalcar gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
-EUKCLA,speciesGroup,Eukiefferiella claripennis gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,8,cg,NA
 EUKCOE,speciesGroup,Eukiefferiella coerulescens gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
 EUKDEV,speciesGroup,Eukiefferiella devonica gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
 EUKGRA,speciesGroup,Eukiefferiella gracei gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,4,cg,NA
+EUKSP,genus,Eukiefferiella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,5,cg,om
+EUKCLA,speciesGroup,Eukiefferiella claripennis gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,8,cg,NA
 EUKPSE,speciesGroup,Eukiefferiella pseudomontana gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Eukiefferiella,NA,midges,8,cg,NA
 EURSP5,genus,Euryhapsis sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Euryhapsis,NA,midges,6,NA,NA
 GEOSP3,genus,Georthocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Georthocladius,NA,midges,6,cg,NA
 GYMSP2,genus,Gymnometriocnemus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Gymnometriocnemus,NA,midges,4,cg,NA
 HELSP10,genus,Heleniella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Heleniella,NA,midges,5,cg,NA
-HETSP13,genus,Heterotanytarsus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Heterotanytarsus,NA,midges,NA,NA,NA
+HETSP13,genus,Heterotanytarsus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Heterotanytarsus,NA,midges,4,cg,NA
 HETSP9,genus,Heterotrissocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Heterotrissocladius,NA,midges,4,cg,NA
 HETMAR,speciesGroup,Heterotrissocladius marcidus gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Heterotrissocladius,NA,midges,4,cg,NA
 HETSUB,speciesGroup,Heterotrissocladius subpilosus gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Heterotrissocladius,NA,midges,4,cg,NA
 HYDSP26,genus,Hydrobaenus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Hydrobaenus,NA,midges,8,cg,NA
-HYDSP52,genus,Hydrosmittia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Hydrosmittia,NA,midges,NA,NA,NA
+HYDSP52,genus,Hydrosmittia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Hydrosmittia,NA,midges,4,cg,NA
 KRESP1,genus,Krenosmittia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Krenosmittia,NA,midges,1,cg,NA
 LIMSP23,genus,Limnophyes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Limnophyes,NA,midges,8,cg,NA
 LOPSP,genus,Lopescladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Lopescladius,NA,midges,4,cg,NA
-MESSP5,genus,Mesocricotopus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Mesocricotopus,NA,midges,NA,cg,NA
-MESSP6,genus,Mesosmittia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Mesosmittia,NA,midges,NA,NA,NA
+MESSP5,genus,Mesocricotopus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Mesocricotopus,NA,midges,4,cg,NA
+MESSP6,genus,Mesosmittia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Mesosmittia,NA,midges,4,cg,NA
 METSP4,genus,Metriocnemus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Metriocnemus,NA,midges,5,cg,prd
-ORTSP1,subfamily,Orthocladiinae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,NA,NA,midges,6,cg,NA
 ORTSPP1,subfamily,Orthocladiinae spp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,NA,NA,midges,5,cg,NA
+ORTSP1,subfamily,Orthocladiinae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,NA,NA,midges,6,cg,NA
 NANSP1,genus,Nanocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Nanocladius,NA,midges,7,cg,NA
-ONCSEM,species,Onconeura semifimbriata,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Onconeura,NA,midges,NA,NA,NA
-OROSP3,genus,Oropuella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Oropuella,NA,midges,NA,NA,NA
+ONCSEM,species,Onconeura semifimbriata,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Onconeura,NA,midges,6,cg,NA
+OROSP3,genus,Oropuella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Oropuella,NA,midges,6,cg,NA
 ORTSP3,genus,Orthocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Orthocladius,NA,midges,6,cg,NA
 ORTANN,species,Orthocladius annectens,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Orthocladius,NA,midges,6,cg,NA
 ORTLIG,species,Orthocladius lignicola,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Orthocladius,NA,midges,6,cg,NA
@@ -422,7 +430,8 @@ PARSP36,genus,Paralimnophyes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomida
 PARSP26,genus,Parametriocnemus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Parametriocnemus,NA,midges,5,cg,NA
 PARSP27,genus,Paraphaenocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Paraphaenocladius,NA,midges,4,cg,NA
 PARSP29,genus,Parorthocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Parorthocladius,NA,midges,6,cg,NA
-PLAFIM,species,Platysmittia fimbriata,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Platysmittia,NA,midges,NA,cg,sh
+PLAFIM,species,Platysmittia fimbriata,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Platysmittia,NA,midges,5,cg,sh
+PLABIL,species,Platysmittia bilyji,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Platysmittia,bilyji,midges,5,cg,sh
 PSESP19,genus,Psectrocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Psectrocladius,NA,midges,8,cg,NA
 PSESP16,genus,Pseudorthocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Pseudorthocladius,NA,midges,0,cg,NA
 PSESP17,genus,Pseudosmittia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Pseudosmittia,NA,midges,6,cg,NA
@@ -435,18 +444,18 @@ STISP1,genus,Stilocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,O
 SYNSP3,genus,Synorthocladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Synorthocladius,NA,midges,6,cg,NA
 THISP2,genus,Thienemanniella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Thienemanniella,NA,midges,5,cg,NA
 TOKSP,genus,Tokunagaia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Tokunagaia,NA,midges,5,cg,NA
-TVESP,genus,Tvetenia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Tvetenia,NA,midges,5,cg,NA
 TVEBAV,speciesGroup,Tvetenia bavarica gr.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Tvetenia,NA,midges,4,cg,NA
+TVESP,genus,Tvetenia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Tvetenia,NA,midges,5,cg,NA
 ORTSP1,subfamily,Orthocladiinae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,unknown_Orthocladiinae,NA,midges,6,cg,NA
 UNNMUL,species,Unniella multivirga,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Unniella,NA,midges,4,cg,NA
-VIVSP2,genus,Vivacricotopus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Vivacricotopus,NA,midges,NA,NA,NA
+VIVSP2,genus,Vivacricotopus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Vivacricotopus,NA,midges,4,cg,NA
 XYLPAR,species,Xylotopus par,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Xylotopus,NA,midges,5,sh,NA
 ZALSP,genus,Zalutschia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,NA,Zalutschia,NA,midges,4,sh,NA
-NEOSP32,genus,Neozavrelia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Tanytarsini,Neozavrelia,NA,midges,NA,NA,NA
+NEOSP32,genus,Neozavrelia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Tanytarsini,Neozavrelia,NA,midges,6,cf,NA
 BORSP3,genus,Boreochlus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Podonominae,Boreochlini,Boreochlus,NA,midges,6,cg,scr
-LASSP1,genus,Lasiodiamesa sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Podonominae,Boreochlini,Lasiodiamesa,NA,midges,NA,cg,scr
+LASSP1,genus,Lasiodiamesa sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Podonominae,Boreochlini,Lasiodiamesa,NA,midges,6,cg,scr
 PARSP20,genus,Paraboreochlus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Podonominae,Boreochlini,Paraboreochlus,NA,midges,1,cg,scr
-TRISP26,genus,Trichotanypus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Podonominae,Boreochlini,Trichotanypus,NA,midges,NA,cg,scr
+TRISP26,genus,Trichotanypus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Podonominae,Boreochlini,Trichotanypus,NA,midges,6,cg,scr
 MONSP6,genus,Monodiamesa sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Prodiamesinae,NA,Monodiamesa,NA,midges,7,cg,NA
 ODOSP2,genus,Odontomesa sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Prodiamesinae,NA,Odontomesa,NA,midges,5,cg,NA
 PROSP24,genus,Prodiamesa sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Prodiamesinae,NA,Prodiamesa,NA,midges,8,cg,NA
@@ -464,7 +473,7 @@ NATSP2,genus,Natarsia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanyp
 ABLSP,genus,Ablabesmyia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Ablabesmyia,NA,midges,8,prd,cg
 ABLMAL,species,Ablabesmyia mallochi,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Ablabesmyia,NA,midges,8,prd,NA
 ABLKAR,subgenus,Ablabesmyia (Karelia) sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Ablabesmyia,NA,midges,8,prd,NA
-BILALG,species,Bilyjomyia algens,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Bilyjomyia,NA,midges,NA,NA,NA
+BILALG,species,Bilyjomyia algens,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Bilyjomyia,NA,midges,7,prd,NA
 CONSP5,genus,Conchapelopia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Conchapelopia,NA,midges,6,prd,NA
 KRESP2,genus,Krenopelopia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Krenopelopia,NA,midges,6,prd,NA
 LABSP,genus,Labrundinia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Pentaneurini,Labrundinia,NA,midges,6,prd,NA
@@ -484,7 +493,7 @@ DJASP,genus,Djalmabatista sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,T
 DJAPUL,species,Djalmabatista pulcher,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Procladiini,Djalmabatista,NA,midges,6,prd,NA
 PROSP23,genus,Procladius sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Procladiini,Procladius,NA,midges,9,prd,cg
 TANSP10,genus,Tanypus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodini,Tanypus,NA,midges,10,prd,NA
-CORSP24,genus,Corethrella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Corethrellidae,NA,NA,Corethrella,NA,Corethrella,NA,prd,NA
+CORSP24,genus,Corethrella sp.,Arthropoda,Hexapoda,Insecta,Diptera,Corethrellidae,NA,NA,Corethrella,NA,Corethrella,6,prd,NA
 ANOSP12,genus,Anopheles sp.,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Anophelinae,NA,Anopheles,NA,Anopheles,8,cf,NA
 AEDSP,genus,Aedes sp.,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,Culicinae,Culicini,Aedes,NA,Aedes,8,cf,NA
 ANOSP12,genus,Anopheles sp.,Arthropoda,Hexapoda,Insecta,Diptera,Culicidae,NA,NA,Anopheles,NA,Anopheles,8,cf,NA
@@ -511,8 +520,8 @@ EPHSP3,family,Ephydridae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Ephydridae,NA,N
 ELOSP2,genus,Eloeophila sp.,Arthropoda,Hexapoda,Insecta,Diptera,Limoniidae,NA,NA,Eloeophila,NA,Eloeophila,4,prd,NA
 LIMSP50,family,Limoniidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Limoniidae sp.,NA,NA,NA,NA,Limoniidae,4,prd,NA
 MUSSP1,family,Muscidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Muscidae,NA,NA,NA,NA,Muscidae,6,prd,NA
-DIPSP1,order,Diptera sp.,Arthropoda,Hexapoda,Insecta,Diptera,NA,NA,NA,NA,NA,Diptera,NA,NA,NA
-TIPSP5,superfamily,Tipuloidea sp.,Arthropoda,Hexapoda,Insecta,Diptera,NA,NA,NA,NA,NA,Tipuloidea,NA,NA,NA
+DIPSP1,order,Diptera sp.,Arthropoda,Hexapoda,Insecta,Diptera,NA,NA,NA,NA,NA,Diptera,6,NA,NA
+TIPSP5,superfamily,Tipuloidea sp.,Arthropoda,Hexapoda,Insecta,Diptera,NA,NA,NA,NA,NA,Tipuloidea,4,sh,NA
 PSYSP1,family,Psychodidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Psychodidae,NA,NA,NA,NA,Psychodidae,10,cg,NA
 PERSP20,tribe,Pericomaini sp.,Arthropoda,Hexapoda,Insecta,Diptera,Psychodidae,NA,Pericomaini,NA,NA,Pericomaini,4,cg,NA
 MARSP3,genus,Maruina sp.,Arthropoda,Hexapoda,Insecta,Diptera,Psychodidae,Psychodinae,NA,Maruina,NA,Maruina,2,scr,cg
@@ -540,13 +549,14 @@ CHRSP6,genus,Chrysops sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tabanidae,Chrysops
 TABSP1,family,Tabanidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tabanidae,NA,NA,NA,NA,Tabanidae,8,prd,NA
 ATYSP5,speciesGroup,Atylotus/Tabanus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tabanidae,Tabaninae,Tabanini,Atylotus/Tabanus,NA,Atylotus/Tabanus,5,prd,NA
 TANSP3,family,Tanyderidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tanyderidae,NA,NA,unknown_tanyderid,NA,Tanyderidae,3,cg,NA
-THASP1,family,Thaumaleidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Thaumaleidae,NA,NA,NA,NA,Thaumaleidae,NA,scr,NA
+THASP1,family,Thaumaleidae sp.,Arthropoda,Hexapoda,Insecta,Diptera,Thaumaleidae,NA,NA,NA,NA,Thaumaleidae,6,scr,NA
 CRYSP4,genus,Cryptolabis sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Cryptolabis,NA,Cryptolabis,3,sh,NA
 ERISP1,genus,Erioptera sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Erioptera,NA,Erioptera,3,cg,NA
 GONSP5,genus,Gonomyia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Gonomyia,NA,Gonomyia,3,cg,NA
 HESSP4,genus,Hesperoconopa sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Hesperoconopa,NA,Hesperoconopa,1,cg,NA
 LIMSP21,genus,Limnophila sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Limnophila,NA,Limnophila,3,prd,NA
 MOLSP6,genus,Molophilus sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Molophilus,NA,Molophilus,4,sh,NA
+ERISP11,tribe,Eriopterini sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,NA,NA,Eriopterini,4,sh,NA
 ORMSP,genus,Ormosia sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Ormosia,NA,Ormosia,3,cg,NA
 RHASP4,genus,Rhabdomastix sp.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Rhabdomastix,NA,Rhabdomastix,3,prd,NA
 RHAFAS,speciesGroup,Rhabdomastix fascigera gr.,Arthropoda,Hexapoda,Insecta,Diptera,Tipulidae,Limoniinae,Eriopterini,Rhabdomastix,NA,Rhabdomastix,3,prd,NA
@@ -574,12 +584,12 @@ ACEINS,species,Acentrella insignificans,Arthropoda,Hexapoda,Insecta,Ephemeropter
 ACELAP,species,Acentrella lapponica,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acentrella,NA,Acentrella,4,cg,NA
 ACEPAR,species,Acentrella parvula,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acentrella,parvula,Acentrella,4,cg,NA
 ACETUR,species,Acentrella turbida,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acentrella,turbida,Acentrella,4,cg,NA
-ACEMAC,species,Acerpenna macdunnoughi,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acerpenna,macdunnoughi,Acerpenna,5,cg,NA
 ACESP1,genus,Acerpenna sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acerpenna,NA,Acerpenna,4,cg,NA
 ACEPYG,species,Acerpenna pygmaea,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acerpenna,NA,Acerpenna,4,cg,NA
-AMESP7,genus,Americabaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Americabaetis,NA,Americabaetis,NA,cg,NA
+ACEMAC,species,Acerpenna macdunnoughi,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Acerpenna,macdunnoughi,Acerpenna,5,cg,NA
+AMESP7,genus,Americabaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Americabaetis,NA,Americabaetis,4,cg,NA
 ANASP11,genus,Anafroptilum sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Anafroptilum,NA,Anafroptilum,4,cg,NA
-APOSP3,genus,Apobaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Apobaetis,NA,Apobaetis,NA,cg,NA
+APOSP3,genus,Apobaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Apobaetis,NA,Apobaetis,4,cg,NA
 BAEBRU,species,Baetis brunneicolor,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Baetis,brunneicolor,Baetis,4,cg,scr
 BAESP2,genus,Baetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Baetis,NA,Baetis,4,cg,scr
 BAEALI,species,Baetis alius,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Baetis,NA,Baetis,4,cg,NA
@@ -593,9 +603,10 @@ BAEPLU,species,Baetis pluto,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,N
 BAETRI,species,Baetis tricaudatus,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Baetis,NA,Baetis,6,cg,NA
 CALSP14,genus,Callibaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Callibaetis,NA,Callibaetis,7,cg,NA
 CAMWAR,species,Camelobaetidius warreni,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Camelobaetidius,NA,Camelobaetidius,4,cg,NA
-CARSP27,genus,Caribaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Caribaetis,NA,Caribaetis,NA,NA,NA
+CARSP27,genus,Caribaetis sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Caribaetis,NA,Caribaetis,4,cg,NA
 CENSP1,genus,Centroptilum sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Centroptilum,NA,Centroptilum,2,cg,scr
 CLOSP1,genus,Cloeodes sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Cloeodes,NA,Cloeodes,4,cg,scr
+CLOSP,genus,Cloeon sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Cloeon,NA,Cloeon,4,cg,NA
 DIPHAG,species,Diphetor hageni,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Diphetor,hageni,Diphetor,6,cg,NA
 FALSP,genus,Fallceon sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Fallceon,NA,Fallceon,4,cg,scr
 HETSP11,genus,Heterocloeon sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Baetidae,NA,NA,Heterocloeon,NA,Heterocloeon,2,scr,NA
@@ -640,15 +651,15 @@ EPHALL,species,Ephemerella alleni,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephe
 EPHHIS,species,Ephemerella hispida,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Ephemerella,NA,Ephemerella,1,cg,scr
 EPHSUB,species,Ephemerella subvaria,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Ephemerella,NA,Ephemerella,1,cg,scr
 EPHTIB,species,Ephemerella tibialis,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Ephemerella,NA,Ephemerella,1,cg,scr
-EURSP4,species,Eurylophella sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Eurylophella,aestiva,Eurylophella,2,cg,NA
 EURFUN,species,Eurylophella funeralis,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Eurylophella,funeralis,Eurylophella,0,cg,NA
+EURSP4,species,Eurylophella sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Eurylophella,aestiva,Eurylophella,2,cg,NA
 EURSP4,species,Eurylophella sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Eurylophella,macdunnoughi,Eurylophella,2,cg,NA
 EURSP4,species,Eurylophella sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Eurylophella,minimella,Eurylophella,2,cg,NA
-MATTER,species,Matriella teresa,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Matriella,NA,Matriella,NA,cg,NA
+MATTER,species,Matriella teresa,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Matriella,NA,Matriella,2,cg,NA
 EPHSP1,family,Ephemerellidae sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,NA,NA,Ephemerellidae,2,cg,NA
+SERMIC,species,Serratella micheneri,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Serratella,NA,Serratella,1,cg,NA
 SERSP5,genus,Serratella sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Serratella,NA,Serratella,2,cg,NA
 SERLEV,species,Serratella levis,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Serratella,NA,Serratella,2,cg,NA
-SERMIC,species,Serratella micheneri,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Serratella,NA,Serratella,1,cg,NA
 TELDEF,species,Teloganopsis deficiens,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Teloganopsis,deficiens,Teloganopsis,2,cg,NA
 TIMHEC,species,Timpanoga hecuba,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemerellidae,NA,NA,Timpanoga,NA,Timpanoga,7,cg,NA
 EPHSP5,genus,Ephemera sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Ephemeridae,NA,NA,Ephemera,NA,Ephemera,2,cg,prd
@@ -671,13 +682,13 @@ HEPSP2,genus,Heptagenia sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptagenii
 HEPELE,species,Heptagenia elegantula,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Heptagenia,NA,Heptagenia,4,scr,NA
 IROSP,genus,Ironodes sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Ironodes,NA,Ironodes,3,scr,NA
 LEUSP7,genus,Leucrocuta sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Leucrocuta,NA,Leucrocuta,1,scr,cg
-MACSP11,genus,Maccaffertium sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,2,scr,cg
-MACEXI,species,Maccaffertium exiguum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,5,scr,NA
-MACMED,species,Maccaffertium mediopunctatum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,3,scr,NA
 MACMOD,species,Maccaffertium modestum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,1,scr,NA
+MACSP11,genus,Maccaffertium sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,2,scr,cg
+MACVIC,species,Maccaffertium vicarium,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,vicarium,Maccaffertium,2,scr,cg
+MACMED,species,Maccaffertium mediopunctatum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,3,scr,NA
 MACPUD,species,Maccaffertium pudicum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,3,scr,NA
 MACTER,species,Maccaffertium terminatum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,4,scr,NA
-MACVIC,species,Maccaffertium vicarium,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,vicarium,Maccaffertium,2,scr,cg
+MACEXI,species,Maccaffertium exiguum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Maccaffertium,NA,Maccaffertium,5,scr,NA
 HEPSP,family,Heptageniidae sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,NA,NA,Heptageniidae,3,scr,NA
 RHISP4,genus,Rhithrogena sp.,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Rhithrogena,NA,Rhithrogena,0,scr,cg
 STEINT,species,Stenacron interpunctatum,Arthropoda,Hexapoda,Insecta,Ephemeroptera,Heptageniidae,NA,NA,Stenacron,interpunctatum,Stenacron,7,cg,NA
@@ -713,7 +724,7 @@ TRISP14,genus,Trichocorixa sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Corixidae,C
 HESSP2,genus,Hesperocorixa sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Corixidae,NA,NA,Hesperocorixa,NA,Hesperocorixa,5,prc,NA
 CORSP4,family,Corixidae sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Corixidae,NA,NA,NA,NA,Corixidae,5,prd,NA
 SIGSP2,genus,Sigara sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Corixidae,NA,NA,Sigara,NA,Sigara,5,prd,NA
-GERSP1,genus,Gerris sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Gerridae,Gerrinae,NA,Gerris,NA,Gerris,NA,prd,NA
+GERSP1,genus,Gerris sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Gerridae,Gerrinae,NA,Gerris,NA,Gerris,9,prd,NA
 METSP6,species,Metrobates sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Gerridae,NA,NA,Metrobates,trux_infuscatus,Metrobates,9,prd,NA
 GERSP,family,Gerridae sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Gerridae,NA,NA,NA,NA,Gerridae,9,prd,NA
 TRESP,genus,Trepobates sp.,Arthropoda,Hexapoda,Insecta,Hemiptera,Gerridae,NA,NA,Trepobates,NA,Trepobates,9,prd,NA
@@ -747,6 +758,7 @@ NIGSP,genus,Nigronia sp.,Arthropoda,Hexapoda,Insecta,Megaloptera,Corydalidae,NA,
 SIASP,family,Sialidae sp.,Arthropoda,Hexapoda,Insecta,Megaloptera,Sialidae,NA,NA,NA,NA,Sialidae,4,prd,NA
 SIASP1,species,Sialis sp.,Arthropoda,Hexapoda,Insecta,Megaloptera,Sialidae,NA,NA,Sialis,rotunda,Sialis,4,prd,NA
 BOYVIN,species,Boyeria vinosa,Arthropoda,Hexapoda,Insecta,Odonata,Aeshnidae,NA,NA,Boyeria,vinosa,Boyeria,2,prd,NA
+BOYSP,genus,Boyeria sp.,Arthropoda,Hexapoda,Insecta,Odonata,Aeshnidae,NA,NA,Boyeria,NA,Boyeria,2,prd,NA
 AESSP,family,Aeshnidae sp.,Arthropoda,Hexapoda,Insecta,Odonata,Aeshnidae,NA,NA,NA,NA,Aeshnidae,5,prd,NA
 CALSP15,genus,Calopteryx sp.,Arthropoda,Hexapoda,Insecta,Odonata,Calopterygidae,NA,NA,Calopteryx,NA,Calopteryx,6,prd,NA
 HETSP7,genus,Hetaerina sp.,Arthropoda,Hexapoda,Insecta,Odonata,Calopterygidae,NA,NA,Hetaerina,NA,Hetaerina,6,prd,NA
@@ -773,19 +785,19 @@ STYALB,species,Stylogomphus albistylus,Arthropoda,Hexapoda,Insecta,Odonata,Gomph
 STYSP6,genus,Stylogomphus sp.,Arthropoda,Hexapoda,Insecta,Odonata,Gomphidae,NA,NA,Stylogomphus,NA,Stylogomphus,1,prd,NA
 LIBSP1,genus,Libellula sp.,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Libellula,NA,Libellula,9,prd,NA
 MACCEL,species,Macrothemis celeno,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Macrothemis,NA,Macrothemis,9,prd,NA
-LIBSP,family,Libellulidae sp.,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,NA,NA,Libellulidae,NA,prd,NA
+LIBSP,family,Libellulidae sp.,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,NA,NA,Libellulidae,9,prd,NA
 ORTFER,species,Orthemis ferruginea,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Orthemis,NA,Orthemis,9,prd,NA
 PLASP11,genus,Plathemis sp.,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Plathemis,NA,Plathemis,9,prd,NA
-SCAFRO,species,Scapanea frontalis,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Scapanea,NA,Scapanea,NA,prd,NA
+SCAFRO,species,Scapanea frontalis,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Scapanea,NA,Scapanea,9,prd,NA
 SYMSP4,genus,Sympetrum sp.,Arthropoda,Hexapoda,Insecta,Odonata,Libellulidae,NA,NA,Sympetrum,NA,Sympetrum,4,prd,NA
 ANISP1,suborder,Anisoptera sp.,Arthropoda,Hexapoda,Insecta,Odonata,NA,NA,NA,NA,NA,Anisoptera,6,prd,NA
 ZYGSP1,suborder,Zygoptera sp.,Arthropoda,Hexapoda,Insecta,Odonata,NA,NA,NA,NA,NA,Zygoptera,6,prd,NA
-PROVIR1,species,Protoneura viridis,Arthropoda,Hexapoda,Insecta,Odonata,Protoneuridae,NA,NA,Protoneura,NA,Protoneura,NA,prd,NA
+PROVIR1,species,Protoneura viridis,Arthropoda,Hexapoda,Insecta,Odonata,Protoneuridae,NA,NA,Protoneura,NA,Protoneura,5,prd,NA
 EUCBRE,species,Eucapnopsis brevicauda,Arthropoda,Hexapoda,Insecta,Plecoptera,Capniidae,Capniinae,NA,Eucapnopsis,NA,Eucapnopsis,1,sh,NA
 MESSP3,genus,Mesocapnia sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Capniidae,Capniinae,NA,Mesocapnia,NA,Mesocapnia,1,sh,NA
 PARSP15,genus,Paracapnia sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Capniidae,Capniinae,NA,Paracapnia,NA,Paracapnia,1,sh,NA
 CAPSP2,family,Capniidae sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Capniidae,NA,NA,NA,NA,Capniidae,3,sh,NA
-ALAOVI,species,Alaskaperla ovibovis,Arthropoda,Hexapoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlinae,NA,Alaskaperla,NA,Alaskaperla,NA,prd,NA
+ALAOVI,species,Alaskaperla ovibovis,Arthropoda,Hexapoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlinae,NA,Alaskaperla,NA,Alaskaperla,1,prd,NA
 ALLSP2,genus,Alloperla sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlinae,NA,Alloperla,NA,Alloperla,0,cg,NA
 HAPSP3,genus,Haploperla sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlinae,NA,Haploperla,NA,Haploperla,1,prd,NA
 PLUDIV,species,Plumiperla diversa,Arthropoda,Hexapoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlinae,NA,Plumiperla,NA,Plumiperla,1,prd,NA
@@ -856,6 +868,7 @@ AGNSP,genus,Agnetina sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlidae,Perlina
 AGNCAP,species,Agnetina capitata,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlidae,Perlinae,Perlini,Agnetina,NA,Agnetina,2,prd,NA
 AGNFLA,species,Agnetina flavescens,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlidae,Perlinae,Perlini,Agnetina,NA,Agnetina,2,prd,NA
 PARSP37,genus,Paragnetina sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlidae,Perlinae,Perlini,Paragnetina,NA,Paragnetina,1,prd,NA
+PARMED,species,Paragnetina media,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlidae,Perlinae,Perlini,Paragnetina,media,Paragnetina,1,prd,NA
 CLICLI,species,Clioperla clio,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlodidae,Isoperlinae,NA,Clioperla,NA,Clioperla,1,prd,NA
 ISOSP9,genus,Isoperla sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlodidae,Isoperlinae,NA,Isoperla,NA,Isoperla,2,prd,cg
 CULSP1,genus,Cultus sp.,Arthropoda,Hexapoda,Insecta,Plecoptera,Perlodidae,NA,NA,Cultus,NA,Cultus,2,prd,NA
@@ -889,9 +902,9 @@ MICSP3,genus,Micrasema sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Brachycentrid
 BRASP5,family,Brachycentridae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Brachycentridae,NA,NA,NA,NA,Brachycentridae,2,sh,NA
 ANISP6,genus,Anisocentropus sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Anisocentropodinae,NA,Anisocentropus,NA,Anisocentropus,1,sh,NA
 ANIPYR,species,Anisocentropus pyraloides,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Anisocentropodinae,NA,Anisocentropus,NA,Anisocentropus,1,sh,NA
-HETAME1,species,Heteroplectron americanum,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratinae,NA,Heteroplectron,NA,Heteroplectron,3,sh,NA
 HETCAL,species,Heteroplectron californicum,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratinae,NA,Heteroplectron,NA,Heteroplectron,1,sh,NA
-PHYPUL,species,Phylloicus pulchrus,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratinae,NA,Phylloicus,NA,Phylloicus,NA,sh,NA
+HETAME1,species,Heteroplectron americanum,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratinae,NA,Heteroplectron,NA,Heteroplectron,3,sh,NA
+PHYPUL,species,Phylloicus pulchrus,Arthropoda,Hexapoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratinae,NA,Phylloicus,NA,Phylloicus,1,sh,NA
 PHYSP8,genus,Phylocentropus sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Dipseudopsidae,Hyalopsychinae,NA,Phylocentropus,NA,Phylocentropus,5,cf,NA
 AGASP4,genus,Agapetus sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Glossosomatidae,Agapetinae,NA,Agapetus,NA,Agapetus,0,scr,cg
 ANASP2,genus,Anagapetus sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatinae,Anagapetini,Anagapetus,NA,Anagapetus,0,scr,NA
@@ -905,32 +918,30 @@ GOESP1,genus,Goera sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Goeridae,Goerinae
 GOESP1,genus,Goera sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Goeridae,NA,NA,Goera,NA,Goera,0,scr,NA
 HELSP7,genus,Helicopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Helicopsychidae,NA,NA,Helicopsyche,NA,Helicopsyche,3,scr,NA
 HYDSP23,genus,Hydropsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Helicopsychidae,NA,NA,Helicopsyche,NA,Hydropsyche,3,scr,NA
-HELSP7,genus,Helicopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Helicopsychidae,NA,NA,Helicopsyche,NA,Helicopsyche,3,scr,NA
 ATOTRI,species,Atopsyche trifida,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydrobiosidae,Hydrobiosinae,Hydrobiosini,Atopsyche,NA,Atopsyche,NA,prd,NA
 ARCSP14,genus,Arctopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Arctopsychinae,NA,Arctopsyche,NA,Arctopsyche,1,prd,NA
 ARCGRA,species,Arctopsyche grandis,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Arctopsychinae,NA,Arctopsyche,NA,Arctopsyche,1,prd,NA
 ARCSP12,subfamily,Arctopsychinae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Arctopsychinae,NA,NA,NA,Arctopsychinae,1,prd,NA
 PARSP18,genus,Parapsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Arctopsychinae,NA,Parapsyche,NA,Parapsyche,0,prd,NA
 PARELS,species,Parapsyche elsis,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Arctopsychinae,NA,Parapsyche,NA,Parapsyche,1,prd,NA
-DIPSP8,genus,Diplectrona sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Diplectroninae,NA,Diplectrona,NA,Diplectrona,2,cf,NA
 DIPMOD,species,Diplectrona modesta,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Diplectroninae,NA,Diplectrona,NA,Diplectrona,0,cf,NA
+DIPSP8,genus,Diplectrona sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Diplectroninae,NA,Diplectrona,NA,Diplectrona,2,cf,NA
 DIPSP7,subfamily,Diplectroninae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Diplectroninae,NA,NA,NA,Diplectroninae,1,NA,NA
+CERSLO,species,Ceratopsyche slossonae,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Ceratopsyche,slossonae,Hydropsyche,4,cf,NA
+CERVEN1,species,Ceratopsyche ventura,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Ceratopsyche,ventura,Hydropsyche,5,cf,NA
 CERBRO,species,Ceratopsyche bronta,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Ceratopsyche,bronta,Hydropsyche,6,cf,om
 CERMOR,species,Ceratopsyche morosa,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Ceratopsyche,morosa,Hydropsyche,6,cf,om
 CERSPA1,species,Ceratopsyche sparna,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Ceratopsyche,sparna,Hydropsyche,6,cf,om
 CHESP5,genus,Cheumatopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Cheumatopsyche,NA,Cheumatopsyche,5,cf,NA
-HYDBET,species,Hydropsyche betteni,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,betteni,Hydropsyche,7,cf,om
-HYDSP23,genus,Hydropsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,NA,Hydropsyche,6,cf,om
 HYDSCA,species,Hydropsyche scalaris,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,NA,Hydropsyche,2,cf,NA
-CHESP5,genus,Cheumatopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Cheumatopsyche,NA,Cheumatopsyche,5,cf,NA
-HYDBET,species,Hydropsyche betteni,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,betteni,Hydropsyche,7,cf,om
-CERBRO,species,Ceratopsyche bronta,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,bronta,Hydropsyche,6,cf,om
-CERMOR,species,Ceratopsyche morosa,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,morosa,Hydropsyche,6,cf,om
-CERSP11,species,Ceratopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,morosa_bronta,Hydropsyche,6,cf,om
-HYDSP23,genus,Hydropsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,NA,Hydropsyche,6,cf,om
-CERSP11,species,Ceratopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,NA,Hydropsyche,6,cf,om
-CERSPA1,species,Ceratopsyche sparna,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,Hydropsyche,sparna,Hydropsyche,6,cf,om
-HYDSP4,family,Hydropsychidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,NA,NA,NA,NA,Hydropsychidae,5,cf,NA
+HYDSP23,genus,Hydropsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,NA,Hydropsyche,6,cf,om
+CERBRO,species,Ceratopsyche bronta,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,bronta,Hydropsyche,6,cf,om
+CERMOR,species,Ceratopsyche morosa,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,morosa,Hydropsyche,6,cf,om
+CERSP11,species,Ceratopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,morosa_bronta,Hydropsyche,6,cf,om
+CERSP11,species,Ceratopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,NA,Hydropsyche,6,cf,om
+CERSPA1,species,Ceratopsyche sparna,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,sparna,Hydropsyche,6,cf,om
+HYDBET,species,Hydropsyche betteni,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,Hydropsyche,betteni,Hydropsyche,7,cf,om
+HYDSP4,family,Hydropsychidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychinae,NA,NA,NA,Hydropsychidae,5,cf,NA
 SMISP4,genus,Smicridea sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Smicrideinae,NA,Smicridea,NA,Smicridea,4,cf,NA
 SMIPRO,species,Smicridea protera,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Smicrideinae,NA,Smicridea,NA,Smicridea,4,cf,NA
 SMISMI,subgenus,Smicridea (Smicridea) sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Hydropsychidae,Smicrideinae,NA,Smicridea,NA,Smicridea (Smicridea),4,cf,NA
@@ -956,6 +967,7 @@ PALNEA,species,Palaeagapetus nearcticus,Arthropoda,Hexapoda,Insecta,Trichoptera,
 LEPSP20,genus,Lepidostoma sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Lepidostomatidae,Lepidostomatinae,NA,Lepidostoma,NA,Lepidostoma,1,sh,NA
 LEPSP6,family,Lepidostomatidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Lepidostomatidae,NA,NA,unknown_lepidostomatid,NA,Lepidostomatidae,1,sh,NA
 CERSP12,genus,Ceraclea sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Leptoceridae,Leptocerinae,Athripsodini,Ceraclea,NA,Ceraclea,3,cg,om
+MYSSEP,species,Mystacides sepulchralis,Arthropoda,Hexapoda,Insecta,Trichoptera,Leptoceridae,Leptocerinae,Mystacidini,Mystacides,sepulchralis,Mystacides,4,cg,sh
 MYSSP2,genus,Mystacides sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Leptoceridae,Leptocerinae,Mystacidini,Mystacides,NA,Mystacides,4,cg,sh
 NECSP,genus,Nectopsyche sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Leptoceridae,Leptocerinae,Nectopsychini,Nectopsyche,NA,Nectopsyche,3,sh,cg
 OECSP,genus,Oecetis sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Leptoceridae,Leptocerinae,Oecetini,Oecetis,NA,Oecetis,5,prd,sh
@@ -1001,7 +1013,7 @@ POLSP5,family,Polycentropodidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Poly
 NEUSP3,genus,Neureclipsis sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,NA,NA,Neureclipsis,NA,Neureclipsis,7,cf,sh
 POLSP12,genus,Polycentropus sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,NA,NA,Polycentropus,NA,Polycentropus,6,prd,cf
 POLSP5,family,Polycentropodidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,NA,NA,unknown_polycentropodid,NA,Polycentropodidae,6,prd,cf
-ANTTUB,species,Antillopsyche tubicola,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodinae,NA,Antillopsyche,NA,Antillopsyche,NA,NA,NA
+ANTTUB,species,Antillopsyche tubicola,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodinae,NA,Antillopsyche,NA,Antillopsyche,6,prd,NA
 CERMAS,species,Cernotina mastelleri,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodinae,NA,Cernotina,NA,Cernotina,6,prd,NA
 NYCSP,genus,Nyctiophylax sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodinae,NA,Nyctiophylax,NA,Nyctiophylax,5,prd,cf
 POLSP12,genus,Polycentropus sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodinae,NA,Polycentropus,NA,Polycentropus,6,prd,cf
@@ -1012,28 +1024,28 @@ LYPDIV,species,Lype diversa,Arthropoda,Hexapoda,Insecta,Trichoptera,Psychomyiida
 PSYSP4,genus,Psychomyia sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Psychomyiidae,Psychomyiinae,NA,Psychomyia,NA,Psychomyia,2,cg,scr
 PSYFLA,species,Psychomyia flavida,Arthropoda,Hexapoda,Insecta,Trichoptera,Psychomyiidae,Psychomyiinae,NA,Psychomyia,NA,Psychomyia,2,cg,NA
 TINSP1,genus,Tinodes sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Psychomyiidae,Psychomyiinae,NA,Tinodes,NA,Tinodes,2,scr,cg
+RHYSP1,family,Rhyacophilidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,NA,NA,Rhyacophilidae,1,prd,om
 RHYFUS1,species,Rhyacophila fuscula,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,fuscula,Rhyacophila,0,prd,om
+RHYMIN,species,Rhyacophila minora,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
+RHYNAR,species,Rhyacophila narvae,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
+RHYALB,speciesGroup,Rhyacophila alberta gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
+RHYANG,speciesGroup,Rhyacophila angelita gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
+RHYVER,speciesGroup,Rhyacophila verrula gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
+RHYVOF,speciesGroup,Rhyacophila vofixa gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
 RHYSP3,genus,Rhyacophila sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,om
 RHYACU,species,Rhyacophila acutiloba,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYATR,species,Rhyacophila atrata,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYCAR2,species,Rhyacophila carolina,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYGRA1,species,Rhyacophila grandis,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYMAN,species,Rhyacophila manistee,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
-RHYMIN,species,Rhyacophila minora,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
 RHYMON1,species,Rhyacophila mongolica,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
-RHYNAR,species,Rhyacophila narvae,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
-RHYALB,speciesGroup,Rhyacophila alberta gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
-RHYANG,speciesGroup,Rhyacophila angelita gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
 RHYATR1,speciesGroup,Rhyacophila atrata cx.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYBET,speciesGroup,Rhyacophila betteni gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYBRU,speciesGroup,Rhyacophila brunnea/vemna gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYCAR,speciesGroup,Rhyacophila carolina gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
-RHYCOL,speciesGroup,Rhyacophila coloradensis gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,2,prd,NA
 RHYHYA,speciesGroup,Rhyacophila hyalinata gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
 RHYPEL,speciesGroup,Rhyacophila pellisa/valuma,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,1,prd,NA
-RHYVER,speciesGroup,Rhyacophila verrula gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
-RHYVOF,speciesGroup,Rhyacophila vofixa gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,0,prd,NA
-RHYSP1,family,Rhyacophilidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,unknown_rhyacophilid,NA,Rhyacophilidae,1,prd,om
+RHYCOL,speciesGroup,Rhyacophila coloradensis gr.,Arthropoda,Hexapoda,Insecta,Trichoptera,Rhyacophilidae,NA,NA,Rhyacophila,NA,Rhyacophila,2,prd,NA
 GUMSP,genus,Gumaga sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Sericostomatidae,NA,NA,Gumaga,NA,Gumaga,3,sh,NA
 THRSP6,family,Thremmatidae sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Thremmatidae sp.,NA,NA,NA,NA,Thremmatidae,3,scr,NA
 NEOSP13,genus,Neophylax sp.,Arthropoda,Hexapoda,Insecta,Trichoptera,Uenoidae,NA,NA,Neophylax,NA,Neophylax,3,scr,NA
@@ -1054,28 +1066,28 @@ FAXSP1,genus,Faxonius sp.,Arthropoda,NA,Malacostraca,Decapoda,Cambaridae,NA,NA,F
 FAXVIR,species,Faxonius virilis,Arthropoda,NA,Malacostraca,Decapoda,Cambaridae,NA,NA,Faxonius,virilis,Faxonius,6,cg,om
 HYDSP21,genus,Hydra sp.,Cnidaria,Medusozoa,Hydrozoa,Anthoathecatae,Hydridae,NA,NA,Hydra,NA,Hydra,5,prd,NA
 BIVSP,class,Bivalvia sp.,Mollusca,NA,Bivalvia,NA,NA,NA,NA,NA,NA,Bivalvia,6,cf,NA
-BIVSP,class,Bivalvia sp.,Mollusca,NA,Bivalvia,NA,NA,NA,NA,NA,NA,Bivalvia,6,cf,NA
 BIVSP,class,Bivalvia sp.,Mollusca,NA,Bivalvia,Unionoida,Margaritiferidae,NA,NA,Margaritifera,margaritifera,Bivalvia,6,cf,NA
 BIVSP,species,Bivalvia sp.,Mollusca,NA,Bivalvia,Unionoida,Unionidae,NA,NA,Lampsilis,radiata,Bivalvia,6,cf,NA
 CORSP27,genus,Corbicula sp.,Mollusca,NA,Bivalvia,Veneroida,Corbiculidae,NA,NA,Corbicula,NA,Corbicula,8,cf,NA
-VENSP,order,Veneroida sp.,Mollusca,NA,Bivalvia,Veneroida,NA,NA,NA,NA,NA,Veneroida,6,cf,NA
 CORSP1,superfamily,Corbiculoidea sp.,Mollusca,NA,Bivalvia,Veneroida,NA,NA,NA,NA,NA,Corbiculoidea,6,cf,NA
+VENSP,order,Veneroida sp.,Mollusca,NA,Bivalvia,Veneroida,NA,NA,NA,NA,NA,Veneroida,6,cf,NA
 MUSSP2,genus,Musculium sp.,Mollusca,NA,Bivalvia,Veneroida,Pisidiidae,NA,NA,Musculium,NA,Musculium,6,cf,NA
 PISSP2,family,Pisidiidae sp.,Mollusca,NA,Bivalvia,Veneroida,Pisidiidae,NA,NA,NA,NA,Pisidiidae,6,cf,NA
 PISSP4,genus,Pisidium sp.,Mollusca,NA,Bivalvia,Veneroida,Pisidiidae,NA,NA,Pisidium,NA,Pisidium,6,cf,NA
 SPHSP8,genus,Sphaerium sp.,Mollusca,NA,Bivalvia,Veneroida,Pisidiidae,NA,NA,Sphaerium,NA,Sphaerium,6,cf,NA
 FERSP,species,Ferrissia sp.,Mollusca,NA,Gastropoda,Basommatophora,Ancylidae,NA,NA,Ferrissia,rivularis,Ferrissia,6,scr,NA
+LAEFUS,species,Laevapex fuscus,Mollusca,NA,Gastropoda,Basommatophora,Ancylidae,NA,NA,Laevapex,fuscus,Laevapex,6,scr,NA
 FOSSP,genus,Fossaria sp.,Mollusca,NA,Gastropoda,Basommatophora,Lymnaeidae,NA,NA,Fossaria,NA,Fossaria,6,scr,NA
 LYMSP,species,Lymnaeidae sp.,Mollusca,NA,Gastropoda,Basommatophora,Lymnaeidae,NA,NA,Lymnaea,stagnalis,Lymnaeidae,7,scr,NA
 LYMSP,species,Lymnaeidae sp.,Mollusca,NA,Gastropoda,Basommatophora,Lymnaeidae,NA,NA,NA,stagnalis,Lymnaeidae,7,scr,NA
 STASP3,genus,Stagnicola sp.,Mollusca,NA,Gastropoda,Basommatophora,Lymnaeidae,NA,NA,Stagnicola,NA,Stagnicola,6,scr,NA
-PHYSP7,species,Physa sp.,Mollusca,NA,Gastropoda,Basommatophora,Physidae,NA,NA,Physa,vernalis,Physa,8,scr,NA
-BIOSP,genus,Biomphalaria sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Biomphalaria,NA,Biomphalaria,NA,scr,NA
+PHYSP7,species,Physa sp.,Mollusca,NA,Gastropoda,Basommatophora,Physidae,NA,NA,Physa,vernalis,Physa,8,cg,NA
+BIOSP,genus,Biomphalaria sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Biomphalaria,NA,Biomphalaria,6,scr,NA
 GYRSP1,genus,Gyraulus sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Gyraulus,NA,Gyraulus,8,scr,NA
 MENMIC,subgenus,Menetus (Micromenetus) sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Menetus,NA,Menetus (Micromenetus),6,scr,NA
 PLASP2,family,Planorbidae sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,NA,NA,Planorbidae,6,scr,NA
 PLASP10,species,Planorbella sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Planorbella,trivolvis,Planorbella,6,scr,NA
-PLASP19,genus,Planorbula sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Planorbula,NA,Planorbula,NA,scr,NA
+PLASP19,genus,Planorbula sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Planorbula,NA,Planorbula,6,scr,NA
 PROSP36,genus,Promenetus sp.,Mollusca,NA,Gastropoda,Basommatophora,Planorbidae,NA,NA,Promenetus,NA,Promenetus,7,cg,NA
 VALSP3,genus,Valvata sp.,Mollusca,NA,Gastropoda,Heterostropha,Valvatidae,NA,NA,Valvata,NA,Valvata,8,scr,NA
 VALLEW,species,Valvata lewisi,Mollusca,NA,Gastropoda,Heterostropha,Valvatidae,NA,NA,Valvata,NA,Valvata,8,scr,NA
@@ -1083,7 +1095,6 @@ VALMER,species,Valvata mergella,Mollusca,NA,Gastropoda,Heterostropha,Valvatidae,
 VALSIN,species,Valvata sincera,Mollusca,NA,Gastropoda,Heterostropha,Valvatidae,NA,NA,Valvata,NA,Valvata,8,scr,NA
 UNCSP2,genus,Uncancylus sp.,Mollusca,NA,Gastropoda,Hygrophila,Planorbidae,NA,NA,Uncancylus,NA,Uncancylus,6,scr,NA
 TRUSP,superfamily,Truncatelloidea sp.,Mollusca,NA,Gastropoda,Littorinimorpha,NA,NA,NA,NA,NA,Truncatelloidea,NA,NA,NA
-CAMDEC,species,Campeloma decisum,Mollusca,NA,Gastropoda,Mesogastropoda,Viviparidae,NA,NA,Campeloma,decisum,Campeloma,6,scr,NA
 CAMDEC,species,Campeloma decisum,Mollusca,NA,Gastropoda,Mesogastropoda,Viviparidae,NA,NA,Campeloma,decisum,Campeloma,6,scr,NA
 GALSP8,genus,Galba sp.,Mollusca,NA,Gastropoda,NA,Lymnaeidae,NA,NA,Galba,NA,Galba,6,cg,NA
 GASSP1,class,Gastropoda sp.,Mollusca,NA,Gastropoda,NA,NA,NA,NA,NA,NA,Gastropoda,NA,NA,NA
