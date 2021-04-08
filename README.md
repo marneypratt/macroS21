@@ -33,3 +33,21 @@ This series of instructions will copy all the files you need from here on GitHub
 A new session of RStudio will open with the unzipped folder containing all the files you need ready for you.
 
 
+## Use Templates to Help with your Analysis
+
+Start by opening the file "macro_analysis.Rmd"
+
+Explore the files in the "data" folder to figure out which files you need to import
+
+Use the metadata text files in the "metadata" folder to help you know what is in each data file and what all the variable names mean.
+
+Copy the code from the various script templates in the "script_templates" folder as needed and paste them in the "macro_analysis.Rmd" file.  Replace the blanks in the code as needed.
+
+
+When you are done with your analysis "knit" your .Rmd file. You can knit straight to PDF or knit to HTML, open the HTML file in your browser, and then "print" to a PDF file.
+
+Insert a file printout of the PDF in the "Project Data Analysis" section of your Lab Notebook.
+
+
+
+
