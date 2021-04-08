@@ -20,7 +20,7 @@ Keep all of your analysis in this same .Rmd file and keep all the associated fil
 
 library(tidyverse) ## for readr, dplyr, ggplot
 library(lubridate) ## for dealing with dates and times
-library(vegan) ## for calculating diversity measures
+library(vegan) ## for calculating diversity measures (you can remove this if you are not calculating diversity measures)
 library(ggbeeswarm) ## for jittering points
 
 ```
