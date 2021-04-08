@@ -1,4 +1,4 @@
-This “mill.macro.weather_metadata” file was most recently updated on 2021-03-29 by Marney Pratt
+This “mill.macro.wTemp_metadata” file was most recently updated on 2021-03-29 by Marney Pratt
 
 
 -------------------
@@ -8,7 +8,7 @@ GENERAL INFORMATION
 
 1. Title of Dataset 
 
-Mill River Macroinvertebrate and Weather Data for 2018-2019
+Mill River Macroinvertebrate and Daily Water Temperature Data for 2018-2019
 
 
 2. Author Information
@@ -59,11 +59,11 @@ No restrictions other than proper citation/attribution
 
 2. Recommended citation for this metadata text file:
 
-Pratt, MC.  2021.  Mill River macroinvertebrate and weather metadata for 2018-2019.  Smith College, Northampton, MA.
+Pratt, MC.  2021.  Mill River macroinvertebrate and daily water temperature metadata for 2018-2019.  Smith College, Northampton, MA.
 
 3. Recommended citation for the data:
 
-Pratt, MC.  2021.  Mill River macroinvertebrate and weather data for 2018-2019.  Smith College, Northampton, MA.
+Pratt, MC.  2021.  Mill River macroinvertebrate and daily water temperature data for 2018-2019.  Smith College, Northampton, MA.
 
 
 
@@ -73,14 +73,13 @@ DATA & FILE OVERVIEW
 
 
 1. File List
-   A. Filename: mill.macro.weather.csv       
+   A. Filename: mill.macro.wTemp.csv       
       Short description:        
 
 Each row shows the data from one type of organism found from a site on the same day.  The data contains all the organisms found for the 
 2018-2019 sampling for the upstream and downstream riffles in the Mill River.  The worms and midges were identified down to the lowest level 
 possible with the keys available in the summer only. 
-
-Weather from the Amherst, MA weather station are also included
+The daily water temperature values (max, min, mean) from the Lamont Bridge Monitoring Station are also included for each day macroinvertebrates were sampled.
 
 
 --------------------------
@@ -129,7 +128,7 @@ Smith College Bio 131 students
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: mill.macro.weather.csv
+DATA-SPECIFIC INFORMATION FOR: mill.macro.wTemp.csv
 -----------------------------------------
 
 
@@ -141,6 +140,8 @@ date: sampling date in mm/dd/yyyy format
 	dates are all given in month/day/year (mm/dd/yyyy) format in the .csv file but usually given as yyyy-mm-dd when imported in R
 
 year: sampling year
+
+startTime.UTC: the time in hours:minutes:seconds in the Universal Time Coordinated (UTC) time zone that sampling was started
 
 season: sampling season (Summer or Fall)
 
@@ -164,7 +165,9 @@ location: location in the river - Upstream or Downstream of Paradise Pond
 	The upstream site is fairly sandy "downstream of the bend" but we tried to sample in the rockier areas
 
 
-habitat: the type of habitat - which is Riffle for all the samples in this dataset (but kept here to make it clear when comparing with other datasets)
+habitatType: the type of habitat - which is Riffle for all the samples in this dataset (but kept here to make it clear when comparing with other datasets)
+
+samplerType: the type of sampler used to take the sample, in this case all samples were taken with a D-net (LaMotte D-net, 0.3m base opening & 500 micron mesh)
 
 sampleID: unique identification code for each sample.
 	example: 01URSU18.UM - first two numbers are the sample number, 
@@ -199,11 +202,10 @@ sampleID: unique identification code for each sample.
 organism_aggr: the unique name for each organism aggregated for some organisms.	
 	Some species are aggregated into a genus (especially a lot of the mayflies, stoneflies, and caddisflies), family (midges), or class (segmented worms)
 
+acceptedTaxonID: the identification code for each taxon taken from NEON (https://data.neonscience.org/taxonomic-lists)
+
 number: number of organisms of that type for that sample on that day
 
-num_quads: number of 0.5 m x 0.5 m quadrats sampled for the sampleID
-
-startTime.UTC: The time when sampling began in Universal Time Coordinated 
 
 benthicArea: benthic area in meters squared. Calculated as the area of a 0.25 meter squared quadrat times the number of quadrats.
 
@@ -234,30 +236,14 @@ FFG: Primary functional feeding group of that organism
 	sh - shredders 	dominant food: herbivore variety chew and mines live plant material, detritivore variety chews, bores, or gouges decomposing vascular plant 	tissue including wood (course particulate organic matter = CPOM)
 
 
-mon.precip: total monthly precipidation in millimeters.  
-	This value was calculated as the total amount of daily precipitation in mm for the 30 days prior to sampling (includes the sample date)
+wTemp.max: the daily maximum temperature in Celcius as measured at the Lamont Bridge monitoring station
+	http://pond.smith.edu/index.html
 
-	Daily precipitation in milimeters was downloaded from the 
-	National Oceanographic and Atmospheric Administration (NOAA) Global Historical Climatology Network (GHCN) 
-	https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
-      
-      NOAA GHCN weather data were downloaded for Amherst, MA station (ID = USC00190120) with the rnoaa package in R and the meteo_tidy_ghcnd() function           
-      Chamberlain, S (2021). rnoaa: 'NOAA' weather data from R. R package version 1.3.2.     
-          https://CRAN.R-project.org/package=rnoaa)
+wTemp.min: the daily minimum temperature in Celcius as measured at the Lamont Bridge monitoring station
+	http://pond.smith.edu/index.html
 
-mon.ADD: aggregated degree days (ADD) for the 30 days prior to sampling (includes the sample date)
-       
-      Daily minimum (Tmin) and maximum (Tmax) temperatures in Celcius were downloaded from the 
-	National Oceanographic and Atmospheric Administration (NOAA) Global Historical Climatology Network (GHCN) 
-	https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn
-      
-      NOAA GHCN weather data were downloaded for Amherst, MA station (ID = USC00190120) with the rnoaa package in R and the meteo_tidy_ghcnd() function           
-      Chamberlain, S (2021). rnoaa: 'NOAA' weather data from R. R package version 1.3.2.     
-          https://CRAN.R-project.org/package=rnoaa)
-          
-      To calculate ADD, the Tmin and Tmax were averaged to give an estimate of average daily temperature (Tavg).  
-	Then the Tavg was summed for 30 days prior to and including the sampling date 
-
+wTemp.mean: the daily mean temperature in Celcius as measured at the Lamont Bridge monitoring station
+	http://pond.smith.edu/index.html   
       
 
 2. Missing data codes:

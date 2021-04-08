@@ -140,6 +140,8 @@ date: sampling date in mm/dd/yyyy format
 
 year: sampling year
 
+startTime.UTC: the time in hours:minutes:seconds in the Universal Time Coordinated (UTC) time zone that sampling was started
+
 season: sampling season (Summer or Fall)
 
 sampleTime: sampling time. Each sampling time is a combition of the season and year, for example Fall 2018 or Summer 2019
@@ -162,7 +164,9 @@ location: location in the river - Upstream or Downstream of Paradise Pond
 	The upstream site is fairly sandy "downstream of the bend" but we tried to sample in the rockier areas
 
 
-habitat: the type of habitat - which is Riffle for all the samples in this dataset (but kept here to make it clear when comparing with other datasets)
+habitatType: the type of habitat - which is Riffle for all the samples in this dataset (but kept here to make it clear when comparing with other datasets)
+
+samplerType: the type of sampler used to take the sample, in this case all samples were taken with a D-net (LaMotte D-net, 0.3m base opening & 500 micron mesh)
 
 sampleID: unique identification code for each sample.
 	example: 01URSU18.UM - first two numbers are the sample number, 
@@ -197,11 +201,10 @@ sampleID: unique identification code for each sample.
 organism_aggr: the unique name for each organism aggregated for some organisms.	
 	Some species are aggregated into a genus (especially a lot of the mayflies, stoneflies, and caddisflies), family (midges), or class (segmented worms)
 
+acceptedTaxonID: the identification code for each taxon taken from NEON (https://data.neonscience.org/taxonomic-lists)
+
 number: number of organisms of that type for that sample on that day
 
-num_quads: number of 0.5 m x 0.5 m quadrats sampled for the sampleID
-
-startTime.UTC: The time when sampling began in Universal Time Coordinated 
 
 benthicArea: benthic area in meters squared. Calculated as the area of a 0.25 meter squared quadrat times the number of quadrats.
 
