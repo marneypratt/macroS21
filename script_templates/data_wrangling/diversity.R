@@ -3,7 +3,7 @@
 
 # data must also be imported before you can run the code below
 
-# remove missing values, and make sure each taxa is summarized within sampleID
+# remove missing values, and make sure each taxon is summarized within sampleID
 macro.long <- ___ %>%  # replace the blank with the name of the appropriate data frame
   dplyr::filter(!is.na(number)) %>% 
   dplyr::select(sampleID, organism_aggr, number) %>% 

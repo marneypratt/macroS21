@@ -4,6 +4,8 @@
 # this file includes all the Mill River data from 2018-2019
 # see the file called mill.macro_metadata.txt for details about all these variables and methods
 
+# make sure the readr` package is loaded before importing these files
+
 mill.macro <- read_csv("data/mill//mill.macro.csv",
                  col_types = cols(date = col_date(format = "%Y-%m-%d"),
                   

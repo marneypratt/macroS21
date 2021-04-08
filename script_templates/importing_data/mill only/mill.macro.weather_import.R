@@ -3,11 +3,12 @@
 # this code will import the macroinvertebrate data for the Mill River only
 # this file includes the Mill River data from  the Summer and Fall of 2018 and 2019
 # and includes the macroinvertebrates sampled plus  
-# the daily maximum, minimum, and mean water temperature 
-# from the Lamont Bridge monitoring station
-# see the file called mill.macro.wTemp_metadata.txt for details about all these variables and methods
+# the monthly total precipitation and Accummulated Degree Days (ADD)
+# see the file called mill.macro.weather_metadata.txt for details about all these variables and methods
 
-mill.macro.wTemp <- read_csv("data/mill//mill.macro.wTemp.csv",
+# make sure the readr` package is loaded before importing these files
+
+mill.macro.weather <- read_csv("data/mill//mill.macro.weather.csv",
                  col_types = cols(date = col_date(format = "%Y-%m-%d"),
                   
                   sampleTime = col_factor(levels=c(
