@@ -12,7 +12,7 @@ mill.hopb.waterQ <- read_csv("data/mill.hopb/mill.hopb.waterQ.csv",
 
 
 mill.hopb.macro <- read_csv("data/mill.hopb/mill.hopb.macro.csv",
-                             col_types = cols(date = col_date(format = "%Y-%m-%d"),
+                             col_types = cols(date = col_date(format = "%m/%d/%Y"),
                                               year = col_factor(),
                                               siteID = col_factor(),
                                               sampleTime = col_factor(levels=c(
