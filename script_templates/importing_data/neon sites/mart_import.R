@@ -5,7 +5,7 @@
 # make sure the readr` package is loaded before importing these files
 
 mart.macro.precip <- read_csv("data/mart/mart.macro.precip.csv",
-                 col_types = cols(date = col_date(format = "%Y-%m-%d"),
+                 col_types = cols(date = col_date(format = "%m/%d/%Y"),
                                   year = col_factor(),
                                   sampleTime = col_factor(levels=c(
                                     "Spring 2018",
