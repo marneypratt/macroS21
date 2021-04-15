@@ -1,7 +1,7 @@
 
 # the code below will calculate descriptive statistics for a variable of interest grouped by another variable
 
-___ %>% # put the name of the data frame here
+df.sum <- ___ %>% # put the name of the data frame here
   filter(!is.na(___)) %>% # remove missing values from the variable of interest
   group_by(___) %>% # put the name of the grouping variable here
   summarize(mean = mean(___), # put the name of the variable you want to summarize in this & following blanks
@@ -11,3 +11,5 @@ ___ %>% # put the name of the data frame here
             min = min(___),
             max = max(___),
             n())
+
+df.sum
