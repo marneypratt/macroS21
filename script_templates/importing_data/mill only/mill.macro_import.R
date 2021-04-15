@@ -6,7 +6,7 @@
 
 # make sure the readr` package is loaded before importing these files
 
-mill.macro <- read_csv("data/mill//mill.macro.csv",
+mill.macro <- read_csv("data/mill/mill.macro.csv",
                  col_types = cols(date = col_date(format = "%Y-%m-%d"),
                   
                   sampleTime = col_factor(levels=c(
