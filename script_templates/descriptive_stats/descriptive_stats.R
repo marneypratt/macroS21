@@ -8,4 +8,6 @@ ___ %>% # put the name of the data frame here
             median = median(___), 
             SD = sd(___), 
             IQR = IQR(___), 
+            min = min(___),
+            max = max(___),
             n())
