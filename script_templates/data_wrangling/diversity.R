@@ -43,3 +43,16 @@ J <- H / max.H
 #put all diversity values into a single data frame
 macro.div <- data.frame(H, effective.sp, sp.rich, max.H, J) %>% 
   tibble::rownames_to_column("sampleID")
+
+
+#macro.div at this point only has the sampleID and the diversity measures
+#if you want to add back in some other variables, you can do that using the code below
+mydf <- ___ %>%  #place the name of the original data frame (with all the variables) here
+  select(sampleID, ___) %>% #add in the names of any variables you want in the final data
+  distinct()
+
+#this script takes the macro.div and joins it with the mydf one we just created
+#sampleID is the "key" used to match up the two data frames
+macro.div <- left_join(macro.div, mydf)
+
+
