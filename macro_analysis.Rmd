@@ -31,7 +31,7 @@ library(ggbeeswarm) ## for jittering points
 Figure out which data file(s) you need to import.  Find the code you need in the "importing_data" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
 
 
-```{r import data, include=FALSE}
+```{r import data}
 
 
 ```
@@ -43,7 +43,7 @@ Figure out which data file(s) you need to import.  Find the code you need in the
 Find the code you need to prepare or "wrangle" your data to make any calculations needed and combine any datasets you need to combine by looking in the "data_wrangling" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
 
 
-```{r data wrangling, include=FALSE}
+```{r data wrangling}
 
 
 
