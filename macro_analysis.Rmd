@@ -5,16 +5,15 @@ date: "4/__/2021"
 output: html_document
 ---
 
-## Getting Setup 
-Before getting started, it is a good practice to start with a clean slate by restarting your R session  
+## Getting Setup
 
-Go to the top menu, select Session then select Restart R  
+Before getting started, it is a good practice to start with a clean slate by restarting your R session
+
+Go to the top menu, select Session then select Restart R
 
 Keep all of your analysis in this same .Rmd file and keep all the associated files in the project folder. Make sure the project name is showing in the upper right of the RStudio window.
 
-
 # Load packages
-
 
 ```{r load packages, echo=TRUE, message=FALSE, warning=FALSE}
 
@@ -25,23 +24,18 @@ library(ggbeeswarm) ## for jittering points
 
 ```
 
-
 # Import Data
 
-Figure out which data file(s) you need to import.  Find the code you need in the "importing_data" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
-
+Figure out which data file(s) you need to import. Find the code you need in the "importing_data" folder within the "script_templates" folder. Copy and paste the code you need in the chunk below.
 
 ```{r import data}
 
 
 ```
 
+# Data Wrangling
 
-
-# Data Wrangling 
-
-Find the code you need to prepare or "wrangle" your data to make any calculations needed and combine any datasets you need to combine by looking in the "data_wrangling" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
-
+Find the code you need to prepare or "wrangle" your data to make any calculations needed and combine any datasets you need to combine by looking in the "data_wrangling" folder within the "script_templates" folder. Copy and paste the code you need in the chunk below.
 
 ```{r data wrangling}
 
@@ -49,12 +43,9 @@ Find the code you need to prepare or "wrangle" your data to make any calculation
 
 ```
 
-
 # Data Description
 
-
-Find the code you need to describe your data by looking in the "descriptive_stats" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
-
+Find the code you need to describe your data by looking in the "descriptive_stats" folder within the "script_templates" folder. Copy and paste the code you need in the chunk below.
 
 ```{r descriptive stats}
 
@@ -62,11 +53,9 @@ Find the code you need to describe your data by looking in the "descriptive_stat
 
 ```
 
-
 # Data Visualization
 
-Find the code you need to visualize (=graph) your data by looking in the "graphing" folder within the "script_templates" folder.  Copy and paste the code you need in the chunk below. 
-
+Find the code you need to visualize (=graph) your data by looking in the "graphing" folder within the "script_templates" folder. Copy and paste the code you need in the chunk below.
 
 ```{r graphs}
 
@@ -74,8 +63,7 @@ Find the code you need to visualize (=graph) your data by looking in the "graphi
 
 ```
 
-
-To save your graph with the `ggsave()` function, you need to name the resulting file with surrounding “ “, and indicate the size via height, width, and units. Don't forget to save the graph with a dpi call between 300-500 to make it nice and crisp! Look at the `ggsave()` help file for more information and options.
+To save your graph with the `ggsave()` function, you need to name the resulting file with surrounding " ", and indicate the size via height, width, and units. Don't forget to save the graph with a dpi call between 300-500 to make it nice and crisp! Look at the `ggsave()` help file for more information and options.
 
 ```{r Save your graph, eval = F}
 
@@ -86,8 +74,7 @@ ggsave(filename="___.png",  #recommended to use.png or .jpg file types
 
 ```
 
-
-Don't forget to "knit" your .Rmd file when you are done. Make sure that each code chunk has an unique name or no name before you knit.  Make sure all your files are in the project folder.
+Don't forget to "knit" your .Rmd file when you are done. Make sure that each code chunk has an unique name or no name before you knit. Make sure all your files are in the project folder.
 
 Knit straight to PDF or knit to HTML, open the HTML file in your browser, and then "print" to a PDF file.
 
