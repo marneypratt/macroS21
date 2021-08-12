@@ -2,4 +2,8 @@
 
 #make sure you have run library(tidyverse) or library(readr) before running this code
 
-master.taxa <- read_csv("data/neon.mill.taxa.csv")
+#can check taxonomy here as needed: https://data.neonscience.org/taxonomic-lists
+
+master.taxa <- read_csv("data/master.taxa.csv") %>% 
+  distinct()
+
